@@ -1,7 +1,7 @@
 {
   "hijri_year": 1448,
   "coverage_start": "2026-09-14",
-  "generated_at": "2026-10-06T12:25:46.474Z",
+  "generated_at": "2026-10-13T06:39:04.756Z",
   "baseline": "islamic-umalqura (Intl)",
   "days": {
     "2026-06-16": {
@@ -1430,21 +1430,36 @@
       ]
     },
     "2026-10-13": {
-      "hijri": "1448-04-30",
+      "hijri": "1448-05-01",
       "year": 1448,
-      "month": 4,
-      "day": 30,
+      "month": 5,
+      "day": 1,
       "month_name": {
-        "en": "Rabi al-Thani",
-        "ur": "ربیع الثانی"
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
       },
-      "confidence": "unconfirmed",
+      "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/13-Sep-2026/moon-sighted-rabi-ul-sani-begin-tomorrow",
-        "https://www.samaa.tv/2087356706-rabi-us-sani-moon-not-sighted-in-pakistan"
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
       ]
     },
     "2026-10-14": {
+      "hijri": "1448-05-02",
+      "year": 1448,
+      "month": 5,
+      "day": 2,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
+    },
+    "2026-10-15": {
       "hijri": "1448-05-03",
       "year": 1448,
       "month": 5,
@@ -1453,9 +1468,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-15": {
+    "2026-10-16": {
       "hijri": "1448-05-04",
       "year": 1448,
       "month": 5,
@@ -1464,9 +1483,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-16": {
+    "2026-10-17": {
       "hijri": "1448-05-05",
       "year": 1448,
       "month": 5,
@@ -1475,9 +1498,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-17": {
+    "2026-10-18": {
       "hijri": "1448-05-06",
       "year": 1448,
       "month": 5,
@@ -1486,9 +1513,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-18": {
+    "2026-10-19": {
       "hijri": "1448-05-07",
       "year": 1448,
       "month": 5,
@@ -1497,9 +1528,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-19": {
+    "2026-10-20": {
       "hijri": "1448-05-08",
       "year": 1448,
       "month": 5,
@@ -1508,9 +1543,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-20": {
+    "2026-10-21": {
       "hijri": "1448-05-09",
       "year": 1448,
       "month": 5,
@@ -1519,9 +1558,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-21": {
+    "2026-10-22": {
       "hijri": "1448-05-10",
       "year": 1448,
       "month": 5,
@@ -1530,9 +1573,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-22": {
+    "2026-10-23": {
       "hijri": "1448-05-11",
       "year": 1448,
       "month": 5,
@@ -1541,9 +1588,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-23": {
+    "2026-10-24": {
       "hijri": "1448-05-12",
       "year": 1448,
       "month": 5,
@@ -1552,9 +1603,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-24": {
+    "2026-10-25": {
       "hijri": "1448-05-13",
       "year": 1448,
       "month": 5,
@@ -1563,9 +1618,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-25": {
+    "2026-10-26": {
       "hijri": "1448-05-14",
       "year": 1448,
       "month": 5,
@@ -1574,9 +1633,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-26": {
+    "2026-10-27": {
       "hijri": "1448-05-15",
       "year": 1448,
       "month": 5,
@@ -1585,9 +1648,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-27": {
+    "2026-10-28": {
       "hijri": "1448-05-16",
       "year": 1448,
       "month": 5,
@@ -1596,9 +1663,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-28": {
+    "2026-10-29": {
       "hijri": "1448-05-17",
       "year": 1448,
       "month": 5,
@@ -1607,9 +1678,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-29": {
+    "2026-10-30": {
       "hijri": "1448-05-18",
       "year": 1448,
       "month": 5,
@@ -1618,9 +1693,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-30": {
+    "2026-10-31": {
       "hijri": "1448-05-19",
       "year": 1448,
       "month": 5,
@@ -1629,9 +1708,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-10-31": {
+    "2026-11-01": {
       "hijri": "1448-05-20",
       "year": 1448,
       "month": 5,
@@ -1640,9 +1723,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-01": {
+    "2026-11-02": {
       "hijri": "1448-05-21",
       "year": 1448,
       "month": 5,
@@ -1651,9 +1738,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-02": {
+    "2026-11-03": {
       "hijri": "1448-05-22",
       "year": 1448,
       "month": 5,
@@ -1662,9 +1753,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-03": {
+    "2026-11-04": {
       "hijri": "1448-05-23",
       "year": 1448,
       "month": 5,
@@ -1673,9 +1768,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-04": {
+    "2026-11-05": {
       "hijri": "1448-05-24",
       "year": 1448,
       "month": 5,
@@ -1684,9 +1783,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-05": {
+    "2026-11-06": {
       "hijri": "1448-05-25",
       "year": 1448,
       "month": 5,
@@ -1695,9 +1798,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-06": {
+    "2026-11-07": {
       "hijri": "1448-05-26",
       "year": 1448,
       "month": 5,
@@ -1706,9 +1813,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-07": {
+    "2026-11-08": {
       "hijri": "1448-05-27",
       "year": 1448,
       "month": 5,
@@ -1717,9 +1828,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-08": {
+    "2026-11-09": {
       "hijri": "1448-05-28",
       "year": 1448,
       "month": 5,
@@ -1728,9 +1843,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-09": {
+    "2026-11-10": {
       "hijri": "1448-05-29",
       "year": 1448,
       "month": 5,
@@ -1739,9 +1858,13 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "predicted"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
-    "2026-11-10": {
+    "2026-11-11": {
       "hijri": "1448-05-30",
       "year": 1448,
       "month": 5,
@@ -1750,18 +1873,11 @@
         "en": "Jumada al-Awwal",
         "ur": "جمادی الاول"
       },
-      "confidence": "unconfirmed"
-    },
-    "2026-11-11": {
-      "hijri": "1448-06-01",
-      "year": 1448,
-      "month": 6,
-      "day": 1,
-      "month_name": {
-        "en": "Jumada al-Thani",
-        "ur": "جمادی الثانی"
-      },
-      "confidence": "predicted"
+      "confidence": "unconfirmed",
+      "sources": [
+        "https://www.app.com.pk/national/jamadi-ul-awwal-moon-sighted-in-pakistan-first-day-to-fall-on-october-13/",
+        "https://www.24newshd.tv/12-Oct-2026/jamadi-ul-awwal-moon-sighted-first-day-fall-tuesday"
+      ]
     },
     "2026-11-12": {
       "hijri": "1448-06-02",
