@@ -72,6 +72,29 @@ Every workflow run uploads `watcher-out/run.json` and writes it to the run summa
 date sightings and near misses. When the polling window closes without a confirmed start, the
 workflow opens (or updates) an issue so the failure is never silent.
 
+## Backfilling a past year
+
+The watcher only covers the month about to start. To fill in months already in the past — a
+year that predates the record, or a gap after a missed announcement — run the manual `backfill`
+workflow (`.github/workflows/backfill.yml`). It reports every month's status without writing
+anything:
+
+- **Confirmed** months with their source URLs, so a second person can re-verify them.
+- **Missing** months, each with the two dates it could start on (29 or 30 days from the
+  neighbouring confirmed month) and the Umm al-Qura baseline date.
+
+Run the same report locally:
+
+```bash
+npm run backfill -- --hijri-year 1447 --dry-run --markdown-out backfill-out/1447.md
+```
+
+The default year is the previous Hijri year; `--dry-run` skips writing the year's calendar
+file. Add each confirmed start to `data/hijri/overrides.json` with a source URL, run
+`npm run generate`, and open a pull request with the backfill-month template. The
+`confirmed record consistency` test fails if the chain of months has a gap or a length other
+than 29 or 30 days.
+
 ## Adding a city
 
 Append a row to `data/cities.json`:

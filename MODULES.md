@@ -25,9 +25,10 @@ the CLI.
 | `src/watcher/extract.ts` | Match an article to a candidate date |
 | `src/watcher/proposal.ts` | Turn agreement into an overrides update + PR description |
 | `src/watcher/watcher.ts` | Orchestrate gate → poll → two-source agreement |
+| `src/backfill/backfill.ts` | Backfill report for a past year: confirmed vs. missing month starts |
 | `src/cli.ts` | Composition root: parse args, call modules, write files |
 | `src/index.ts` | Package public surface (client + types) only |
 
-`index.ts` files inside `src/hijri`, `src/prayer`, `src/client` and `src/watcher` are
-barrels for their module's public surface. Internal code imports the concrete module,
-not the barrel.
+`index.ts` files inside `src/hijri`, `src/prayer`, `src/client`, `src/watcher` and
+`src/backfill` are barrels for their module's public surface. Internal code imports the
+concrete module, not the barrel.
