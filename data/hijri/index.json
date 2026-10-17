@@ -1,10 +1,11 @@
 {
-  "coverage_start": "2026-09-14",
-  "generated_at": "2026-10-13T06:39:04.756Z",
+  "coverage_start": "2025-06-27",
+  "generated_at": "2026-10-17T14:06:33.164Z",
   "baseline": "islamic-umalqura (Intl)",
   "hijri_years": [
+    1447,
     1448,
     1449
   ],
-  "confirmed_days": 58
+  "confirmed_days": 502
 }
