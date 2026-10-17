@@ -1,10 +1,25 @@
 {
   "hijri_year": 1448,
-  "coverage_start": "2026-09-14",
-  "generated_at": "2026-10-13T06:39:04.756Z",
+  "coverage_start": "2025-06-27",
+  "generated_at": "2026-10-17T14:06:33.164Z",
   "baseline": "islamic-umalqura (Intl)",
   "days": {
     "2026-06-16": {
+      "hijri": "1447-12-30",
+      "year": 1447,
+      "month": 12,
+      "day": 30,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
+        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+      ]
+    },
+    "2026-06-17": {
       "hijri": "1448-01-01",
       "year": 1448,
       "month": 1,
@@ -13,9 +28,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-17": {
+    "2026-06-18": {
       "hijri": "1448-01-02",
       "year": 1448,
       "month": 1,
@@ -24,9 +43,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-18": {
+    "2026-06-19": {
       "hijri": "1448-01-03",
       "year": 1448,
       "month": 1,
@@ -35,9 +58,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-19": {
+    "2026-06-20": {
       "hijri": "1448-01-04",
       "year": 1448,
       "month": 1,
@@ -46,9 +73,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-20": {
+    "2026-06-21": {
       "hijri": "1448-01-05",
       "year": 1448,
       "month": 1,
@@ -57,9 +88,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-21": {
+    "2026-06-22": {
       "hijri": "1448-01-06",
       "year": 1448,
       "month": 1,
@@ -68,9 +103,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-22": {
+    "2026-06-23": {
       "hijri": "1448-01-07",
       "year": 1448,
       "month": 1,
@@ -79,9 +118,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-23": {
+    "2026-06-24": {
       "hijri": "1448-01-08",
       "year": 1448,
       "month": 1,
@@ -90,9 +133,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-24": {
+    "2026-06-25": {
       "hijri": "1448-01-09",
       "year": 1448,
       "month": 1,
@@ -101,9 +148,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-25": {
+    "2026-06-26": {
       "hijri": "1448-01-10",
       "year": 1448,
       "month": 1,
@@ -112,9 +163,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-26": {
+    "2026-06-27": {
       "hijri": "1448-01-11",
       "year": 1448,
       "month": 1,
@@ -123,9 +178,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-27": {
+    "2026-06-28": {
       "hijri": "1448-01-12",
       "year": 1448,
       "month": 1,
@@ -134,9 +193,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-28": {
+    "2026-06-29": {
       "hijri": "1448-01-13",
       "year": 1448,
       "month": 1,
@@ -145,9 +208,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-29": {
+    "2026-06-30": {
       "hijri": "1448-01-14",
       "year": 1448,
       "month": 1,
@@ -156,9 +223,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-06-30": {
+    "2026-07-01": {
       "hijri": "1448-01-15",
       "year": 1448,
       "month": 1,
@@ -167,9 +238,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-01": {
+    "2026-07-02": {
       "hijri": "1448-01-16",
       "year": 1448,
       "month": 1,
@@ -178,9 +253,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-02": {
+    "2026-07-03": {
       "hijri": "1448-01-17",
       "year": 1448,
       "month": 1,
@@ -189,9 +268,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-03": {
+    "2026-07-04": {
       "hijri": "1448-01-18",
       "year": 1448,
       "month": 1,
@@ -200,9 +283,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-04": {
+    "2026-07-05": {
       "hijri": "1448-01-19",
       "year": 1448,
       "month": 1,
@@ -211,9 +298,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-05": {
+    "2026-07-06": {
       "hijri": "1448-01-20",
       "year": 1448,
       "month": 1,
@@ -222,9 +313,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-06": {
+    "2026-07-07": {
       "hijri": "1448-01-21",
       "year": 1448,
       "month": 1,
@@ -233,9 +328,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-07": {
+    "2026-07-08": {
       "hijri": "1448-01-22",
       "year": 1448,
       "month": 1,
@@ -244,9 +343,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-08": {
+    "2026-07-09": {
       "hijri": "1448-01-23",
       "year": 1448,
       "month": 1,
@@ -255,9 +358,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-09": {
+    "2026-07-10": {
       "hijri": "1448-01-24",
       "year": 1448,
       "month": 1,
@@ -266,9 +373,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-10": {
+    "2026-07-11": {
       "hijri": "1448-01-25",
       "year": 1448,
       "month": 1,
@@ -277,9 +388,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-11": {
+    "2026-07-12": {
       "hijri": "1448-01-26",
       "year": 1448,
       "month": 1,
@@ -288,9 +403,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-12": {
+    "2026-07-13": {
       "hijri": "1448-01-27",
       "year": 1448,
       "month": 1,
@@ -299,9 +418,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-13": {
+    "2026-07-14": {
       "hijri": "1448-01-28",
       "year": 1448,
       "month": 1,
@@ -310,9 +433,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-14": {
+    "2026-07-15": {
       "hijri": "1448-01-29",
       "year": 1448,
       "month": 1,
@@ -321,9 +448,13 @@
         "en": "Muharram",
         "ur": "محرم"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
     },
-    "2026-07-15": {
+    "2026-07-16": {
       "hijri": "1448-02-01",
       "year": 1448,
       "month": 2,
@@ -332,9 +463,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-16": {
+    "2026-07-17": {
       "hijri": "1448-02-02",
       "year": 1448,
       "month": 2,
@@ -343,9 +478,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-17": {
+    "2026-07-18": {
       "hijri": "1448-02-03",
       "year": 1448,
       "month": 2,
@@ -354,9 +493,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-18": {
+    "2026-07-19": {
       "hijri": "1448-02-04",
       "year": 1448,
       "month": 2,
@@ -365,9 +508,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-19": {
+    "2026-07-20": {
       "hijri": "1448-02-05",
       "year": 1448,
       "month": 2,
@@ -376,9 +523,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-20": {
+    "2026-07-21": {
       "hijri": "1448-02-06",
       "year": 1448,
       "month": 2,
@@ -387,9 +538,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-21": {
+    "2026-07-22": {
       "hijri": "1448-02-07",
       "year": 1448,
       "month": 2,
@@ -398,9 +553,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-22": {
+    "2026-07-23": {
       "hijri": "1448-02-08",
       "year": 1448,
       "month": 2,
@@ -409,9 +568,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-23": {
+    "2026-07-24": {
       "hijri": "1448-02-09",
       "year": 1448,
       "month": 2,
@@ -420,9 +583,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-24": {
+    "2026-07-25": {
       "hijri": "1448-02-10",
       "year": 1448,
       "month": 2,
@@ -431,9 +598,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-25": {
+    "2026-07-26": {
       "hijri": "1448-02-11",
       "year": 1448,
       "month": 2,
@@ -442,9 +613,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-26": {
+    "2026-07-27": {
       "hijri": "1448-02-12",
       "year": 1448,
       "month": 2,
@@ -453,9 +628,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-27": {
+    "2026-07-28": {
       "hijri": "1448-02-13",
       "year": 1448,
       "month": 2,
@@ -464,9 +643,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-28": {
+    "2026-07-29": {
       "hijri": "1448-02-14",
       "year": 1448,
       "month": 2,
@@ -475,9 +658,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-29": {
+    "2026-07-30": {
       "hijri": "1448-02-15",
       "year": 1448,
       "month": 2,
@@ -486,9 +673,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-30": {
+    "2026-07-31": {
       "hijri": "1448-02-16",
       "year": 1448,
       "month": 2,
@@ -497,9 +688,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-07-31": {
+    "2026-08-01": {
       "hijri": "1448-02-17",
       "year": 1448,
       "month": 2,
@@ -508,9 +703,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-01": {
+    "2026-08-02": {
       "hijri": "1448-02-18",
       "year": 1448,
       "month": 2,
@@ -519,9 +718,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-02": {
+    "2026-08-03": {
       "hijri": "1448-02-19",
       "year": 1448,
       "month": 2,
@@ -530,9 +733,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-03": {
+    "2026-08-04": {
       "hijri": "1448-02-20",
       "year": 1448,
       "month": 2,
@@ -541,9 +748,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-04": {
+    "2026-08-05": {
       "hijri": "1448-02-21",
       "year": 1448,
       "month": 2,
@@ -552,9 +763,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-05": {
+    "2026-08-06": {
       "hijri": "1448-02-22",
       "year": 1448,
       "month": 2,
@@ -563,9 +778,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-06": {
+    "2026-08-07": {
       "hijri": "1448-02-23",
       "year": 1448,
       "month": 2,
@@ -574,9 +793,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-07": {
+    "2026-08-08": {
       "hijri": "1448-02-24",
       "year": 1448,
       "month": 2,
@@ -585,9 +808,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-08": {
+    "2026-08-09": {
       "hijri": "1448-02-25",
       "year": 1448,
       "month": 2,
@@ -596,9 +823,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-09": {
+    "2026-08-10": {
       "hijri": "1448-02-26",
       "year": 1448,
       "month": 2,
@@ -607,9 +838,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-10": {
+    "2026-08-11": {
       "hijri": "1448-02-27",
       "year": 1448,
       "month": 2,
@@ -618,9 +853,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-11": {
+    "2026-08-12": {
       "hijri": "1448-02-28",
       "year": 1448,
       "month": 2,
@@ -629,9 +868,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-12": {
+    "2026-08-13": {
       "hijri": "1448-02-29",
       "year": 1448,
       "month": 2,
@@ -640,9 +883,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-13": {
+    "2026-08-14": {
       "hijri": "1448-02-30",
       "year": 1448,
       "month": 2,
@@ -651,9 +898,13 @@
         "en": "Safar",
         "ur": "صفر"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
     },
-    "2026-08-14": {
+    "2026-08-15": {
       "hijri": "1448-03-01",
       "year": 1448,
       "month": 3,
@@ -662,9 +913,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-15": {
+    "2026-08-16": {
       "hijri": "1448-03-02",
       "year": 1448,
       "month": 3,
@@ -673,9 +928,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-16": {
+    "2026-08-17": {
       "hijri": "1448-03-03",
       "year": 1448,
       "month": 3,
@@ -684,9 +943,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-17": {
+    "2026-08-18": {
       "hijri": "1448-03-04",
       "year": 1448,
       "month": 3,
@@ -695,9 +958,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-18": {
+    "2026-08-19": {
       "hijri": "1448-03-05",
       "year": 1448,
       "month": 3,
@@ -706,9 +973,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-19": {
+    "2026-08-20": {
       "hijri": "1448-03-06",
       "year": 1448,
       "month": 3,
@@ -717,9 +988,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-20": {
+    "2026-08-21": {
       "hijri": "1448-03-07",
       "year": 1448,
       "month": 3,
@@ -728,9 +1003,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-21": {
+    "2026-08-22": {
       "hijri": "1448-03-08",
       "year": 1448,
       "month": 3,
@@ -739,9 +1018,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-22": {
+    "2026-08-23": {
       "hijri": "1448-03-09",
       "year": 1448,
       "month": 3,
@@ -750,9 +1033,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-23": {
+    "2026-08-24": {
       "hijri": "1448-03-10",
       "year": 1448,
       "month": 3,
@@ -761,9 +1048,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-24": {
+    "2026-08-25": {
       "hijri": "1448-03-11",
       "year": 1448,
       "month": 3,
@@ -772,9 +1063,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-25": {
+    "2026-08-26": {
       "hijri": "1448-03-12",
       "year": 1448,
       "month": 3,
@@ -783,9 +1078,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-26": {
+    "2026-08-27": {
       "hijri": "1448-03-13",
       "year": 1448,
       "month": 3,
@@ -794,9 +1093,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-27": {
+    "2026-08-28": {
       "hijri": "1448-03-14",
       "year": 1448,
       "month": 3,
@@ -805,9 +1108,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-28": {
+    "2026-08-29": {
       "hijri": "1448-03-15",
       "year": 1448,
       "month": 3,
@@ -816,9 +1123,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-29": {
+    "2026-08-30": {
       "hijri": "1448-03-16",
       "year": 1448,
       "month": 3,
@@ -827,9 +1138,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-30": {
+    "2026-08-31": {
       "hijri": "1448-03-17",
       "year": 1448,
       "month": 3,
@@ -838,9 +1153,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-08-31": {
+    "2026-09-01": {
       "hijri": "1448-03-18",
       "year": 1448,
       "month": 3,
@@ -849,9 +1168,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-01": {
+    "2026-09-02": {
       "hijri": "1448-03-19",
       "year": 1448,
       "month": 3,
@@ -860,9 +1183,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-02": {
+    "2026-09-03": {
       "hijri": "1448-03-20",
       "year": 1448,
       "month": 3,
@@ -871,9 +1198,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-03": {
+    "2026-09-04": {
       "hijri": "1448-03-21",
       "year": 1448,
       "month": 3,
@@ -882,9 +1213,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-04": {
+    "2026-09-05": {
       "hijri": "1448-03-22",
       "year": 1448,
       "month": 3,
@@ -893,9 +1228,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-05": {
+    "2026-09-06": {
       "hijri": "1448-03-23",
       "year": 1448,
       "month": 3,
@@ -904,9 +1243,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-06": {
+    "2026-09-07": {
       "hijri": "1448-03-24",
       "year": 1448,
       "month": 3,
@@ -915,9 +1258,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-07": {
+    "2026-09-08": {
       "hijri": "1448-03-25",
       "year": 1448,
       "month": 3,
@@ -926,9 +1273,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-08": {
+    "2026-09-09": {
       "hijri": "1448-03-26",
       "year": 1448,
       "month": 3,
@@ -937,9 +1288,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-09": {
+    "2026-09-10": {
       "hijri": "1448-03-27",
       "year": 1448,
       "month": 3,
@@ -948,9 +1303,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-10": {
+    "2026-09-11": {
       "hijri": "1448-03-28",
       "year": 1448,
       "month": 3,
@@ -959,9 +1318,13 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
-    "2026-09-11": {
+    "2026-09-12": {
       "hijri": "1448-03-29",
       "year": 1448,
       "month": 3,
@@ -970,29 +1333,26 @@
         "en": "Rabi al-Awwal",
         "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
-    },
-    "2026-09-12": {
-      "hijri": "1448-04-01",
-      "year": 1448,
-      "month": 4,
-      "day": 1,
-      "month_name": {
-        "en": "Rabi al-Thani",
-        "ur": "ربیع الثانی"
-      },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
     "2026-09-13": {
-      "hijri": "1448-04-02",
+      "hijri": "1448-03-30",
       "year": 1448,
-      "month": 4,
-      "day": 2,
+      "month": 3,
+      "day": 30,
       "month_name": {
-        "en": "Rabi al-Thani",
-        "ur": "ربیع الثانی"
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
     },
     "2026-09-14": {
       "hijri": "1448-04-01",

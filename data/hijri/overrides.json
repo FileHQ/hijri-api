@@ -1,7 +1,112 @@
 {
   "$schema": "./overrides.schema.json",
-  "coverage_start": null,
+  "coverage_start": "2025-06-27",
   "months": {
+    "1447-01-01": {
+      "date": "2025-06-27",
+      "sources": [
+        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
+        "https://www.dawn.com/news/1920308"
+      ]
+    },
+    "1447-02-01": {
+      "date": "2025-07-27",
+      "sources": [
+        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
+        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+      ]
+    },
+    "1447-03-01": {
+      "date": "2025-08-26",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
+        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+      ]
+    },
+    "1447-04-01": {
+      "date": "2025-09-25",
+      "sources": [
+        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
+        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+      ]
+    },
+    "1447-05-01": {
+      "date": "2025-10-24",
+      "sources": [
+        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
+        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+      ]
+    },
+    "1447-06-01": {
+      "date": "2025-11-23",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
+        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+      ]
+    },
+    "1447-07-01": {
+      "date": "2025-12-22",
+      "sources": [
+        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
+        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+      ]
+    },
+    "1447-08-01": {
+      "date": "2026-01-21",
+      "sources": [
+        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
+        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+      ]
+    },
+    "1447-09-01": {
+      "date": "2026-02-19",
+      "sources": [
+        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
+        "https://www.dawn.com/news/1974092"
+      ]
+    },
+    "1447-10-01": {
+      "date": "2026-03-21",
+      "sources": [
+        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
+        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+      ]
+    },
+    "1447-11-01": {
+      "date": "2026-04-19",
+      "sources": [
+        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
+        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+      ]
+    },
+    "1447-12-01": {
+      "date": "2026-05-18",
+      "sources": [
+        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
+        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+      ]
+    },
+    "1448-01-01": {
+      "date": "2026-06-17",
+      "sources": [
+        "https://www.app.com.pk/national/muharram-to-begin-on-june-17-as-moon-not-sighted-in-pakistan/",
+        "https://tribune.com.pk/story/2613306/ruet-e-hilal-committee-meets-for-muharram-moon-sighting"
+      ]
+    },
+    "1448-02-01": {
+      "date": "2026-07-16",
+      "sources": [
+        "https://www.nation.com.pk/15-Jul-2026/safar-moon-sighted-pakistan",
+        "https://www.dunyanews.tv/en/Pakistan/962843-month-of-safar-begins-as-moon-sighted-in-pakistan"
+      ]
+    },
+    "1448-03-01": {
+      "date": "2026-08-15",
+      "sources": [
+        "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-august-26"
+      ]
+    },
     "1448-04-01": {
       "date": "2026-09-14",
       "sources": [
