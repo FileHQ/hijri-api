@@ -75,7 +75,13 @@ function runGenerate(args: Args): void {
   const suffix = dryRun ? " (dry run)" : "";
 
   const hijriYear = toHijri(today).year;
-  const hijriYears = numberList(args.flags.get("hijri-years")) ?? [hijriYear, hijriYear + 1];
+  // Always include the years the confirmed record covers, so a backfilled year
+  // is refreshed on every run (e.g. after editing a 1447 override) and never
+  // silently goes stale. buildCalendar sorts and de-duplicates.
+  const overrideYears = overrides.months.map((month) => month.hijri.year);
+  const hijriYears =
+    numberList(args.flags.get("hijri-years")) ??
+    [...new Set([hijriYear, hijriYear + 1, ...overrideYears])].sort((a, b) => a - b);
   const currentGregorianYear = Number(today.slice(0, 4));
   const gregorianYears = numberList(args.flags.get("years")) ?? [currentGregorianYear, currentGregorianYear + 1];
 

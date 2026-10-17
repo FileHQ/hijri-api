@@ -88,3 +88,35 @@ describe("extractAnnouncedStart (real Jumada al-Awwal headlines)", () => {
     expect(isRelevantAnnouncement(article("Pakistan cricket team wins"), monthNameVariants(10))).toBe(false);
   });
 });
+
+// Real 1 Rabi al-Awwal 1448 (2026-08-15) headlines. Publishers write the month
+// as "Rabi ul Awal" / "Rabi-ul-Awal" (one "w"), and the winning headline never
+// says "Ruet-e-Hilal"; the month spelling alone must carry the context.
+describe("extractAnnouncedStart (real Rabi al-Awwal headlines)", () => {
+  const rabi = buildCandidates("2026-07-16", "Asia/Karachi").candidates;
+  const reference = new Date("2026-08-13T20:00:00+05:00");
+  const variants = monthNameVariants(3);
+
+  it("recognises the one-w spelling in the APP headline", () => {
+    const result = extractAnnouncedStart(
+      article(
+        "Rabi ul Awal moon not sighted, Eid Milad un Nabi to fall on Aug 26",
+        "the 1st Rabi ul Awwal 1448 AH, shall commence from Saturday, the August 15, 2026.",
+      ),
+      rabi,
+      reference,
+      variants,
+    );
+    expect(result?.date).toBe("2026-08-15");
+  });
+
+  it("recognises the hyphenated one-w spelling without committee vocabulary", () => {
+    const result = extractAnnouncedStart(
+      article("Rabi-ul-Awal moon not sighted, month to begin on August 15"),
+      rabi,
+      reference,
+      variants,
+    );
+    expect(result?.date).toBe("2026-08-15");
+  });
+});

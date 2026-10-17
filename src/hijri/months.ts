@@ -24,18 +24,18 @@ export const RAMADAN_MONTH = 9;
  * Index 0 is Muharram. Never rely on a single transliteration.
  */
 export const MONTH_NAME_VARIANTS: readonly (readonly string[])[] = [
-  ["Muharram", "Moharram", "محرم"],
-  ["Safar", "Saffar", "صفر"],
-  ["Rabi al-Awwal", "Rabi-ul-Awwal", "Rabi ul Awwal", "Rabiul Awwal", "ربیع الاول"],
-  ["Rabi al-Thani", "Rabi-ul-Thani", "Rabi us Sani", "Rabi ul-Sani", "ربیع الثانی"],
-  ["Jumada al-Awwal", "Jumada al Awwal", "Jamadi ul Awwal", "Jamadi-ul-Awwal", "Jumadi-ul-Awwal", "جمادی الاول"],
-  ["Jumada al-Thani", "Jumada al Thani", "Jamadi ul Thani", "Jamadi-ul-Thani", "جمادی الثانی"],
-  ["Rajab", "رجب"],
-  ["Sha'ban", "Shaban", "شعبان"],
-  ["Ramadan", "Ramazan", "رمضان"],
-  ["Shawwal", "شوال"],
-  ["Dhu al-Qi'dah", "Zil Qadah", "Zilqad", "ذو القعدہ"],
-  ["Dhu al-Hijjah", "Zil Hajj", "Zilhaj", "Dhul Hijjah", "ذو الحجہ"],
+  ["Muharram", "Moharram", "Muharram al-Haram", "محرم"],
+  ["Safar", "Saffar", "Safar al-Muzaffar", "صفر"],
+  ["Rabi al-Awwal", "Rabi-ul-Awwal", "Rabi ul Awwal", "Rabiul Awwal", "Rabi ul Awal", "Rabi-ul-Awal", "Rabi al Awal", "Rabbiul Awwal", "ربیع الاول"],
+  ["Rabi al-Thani", "Rabi-ul-Thani", "Rabi us Sani", "Rabi ul-Sani", "Rabi ul Sani", "Rabi-us-Sani", "ربیع الثانی"],
+  ["Jumada al-Awwal", "Jumada al Awwal", "Jumada al Awal", "Jamadi ul Awwal", "Jamadi-ul-Awwal", "Jamadi-ul-Awal", "Jumadi-ul-Awwal", "جمادی الاول"],
+  ["Jumada al-Thani", "Jumada al Thani", "Jumada al Sani", "Jamadi ul Thani", "Jamadi ul Sani", "Jamadi-ul-Thani", "جمادی الثانی"],
+  ["Rajab", "Rajab al-Murajjab", "رجب"],
+  ["Sha'ban", "Shaban", "Shaaban", "شعبان"],
+  ["Ramadan", "Ramazan", "Ramadhan", "رمضان"],
+  ["Shawwal", "Shawal", "شوال"],
+  ["Dhu al-Qi'dah", "Zil Qadah", "Zilqad", "Zul Qadah", "Ziqad", "ذو القعدہ"],
+  ["Dhu al-Hijjah", "Zil Hajj", "Zilhaj", "Zilhajj", "Dhul Hijjah", "Zul Hijjah", "ذو الحجہ"],
 ];
 
 export function monthName(month: number): MonthName {
