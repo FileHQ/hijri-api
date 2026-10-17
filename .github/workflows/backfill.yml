@@ -1,0 +1,73 @@
+name: backfill
+
+# Manual only. Builds a backfill report for a past Hijri year: which month
+# starts are confirmed, which still need a source, and the dates each missing
+# start could fall on. It never writes data on its own — after a maintainer
+# confirms a start they add it to overrides.json and run `npm run generate`.
+on:
+  workflow_dispatch:
+    inputs:
+      hijri_year:
+        description: "Hijri year to backfill, e.g. 1447"
+        type: string
+        required: true
+      dry_run:
+        description: "Report only; do not file or update a tracking issue"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: backfill-${{ github.event.inputs.hijri_year }}
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci --include=dev
+
+      - name: Build the backfill report
+        env:
+          HIJRI_YEAR: ${{ github.event.inputs.hijri_year }}
+        # --dry-run keeps the job read-only: no calendar/index files are written.
+        run: |
+          npx tsx src/cli.ts backfill --hijri-year "$HIJRI_YEAR" --dry-run \
+            --json-out backfill-out/report.json \
+            --markdown-out backfill-out/backfill.md
+
+      - name: Write the run summary
+        if: ${{ always() }}
+        run: cat backfill-out/backfill.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+
+      - name: Upload the report
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: backfill-${{ github.event.inputs.hijri_year }}
+          path: backfill-out/
+          if-no-files-found: ignore
+
+      - name: File or update the tracking issue
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HIJRI_YEAR: ${{ github.event.inputs.hijri_year }}
+        run: |
+          title="Backfill Hijri year $HIJRI_YEAR"
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$title in:title" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body-file backfill-out/backfill.md
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body-file backfill-out/backfill.md
+          fi
