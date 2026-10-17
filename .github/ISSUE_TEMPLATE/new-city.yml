@@ -1,0 +1,34 @@
+name: Add a city
+description: Request prayer times for another Pakistani city.
+title: "Add city: "
+labels: ["enhancement", "good first issue"]
+body:
+  - type: input
+    id: city
+    attributes:
+      label: City
+      placeholder: "Multan"
+    validations:
+      required: true
+  - type: input
+    id: province
+    attributes:
+      label: Province
+      placeholder: "Punjab"
+    validations:
+      required: true
+  - type: input
+    id: coordinates
+    attributes:
+      label: Latitude and longitude
+      description: Decimal degrees. Optional — a maintainer can fill these in.
+      placeholder: "30.1575, 71.5249"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Adding a city is a self-contained contribution: append a row to `data/cities.json`
+        and run `npm run generate`. See the Contributing guide for the exact shape.
+        If you would like to open the pull request yourself, say so and a maintainer will
+        assign the issue to you.

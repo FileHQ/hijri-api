@@ -110,11 +110,13 @@ npm run build
 
 Tests must pass and `npm run typecheck` must be clean before a pull request. New
 behaviour needs a test; keep tests deterministic and offline (inject clocks,
-fetchers, and data rather than reaching for the network).
+fetchers, and data rather than reaching for the network). CI runs typecheck, tests
+and build on every pull request.
 
 Generated files under `data/hijri/calendar/` and `data/prayer/` are committed on
 purpose: they are the deployed product, not build output. Do not edit them by hand —
-change the generator and rerun it.
+change the generator and rerun it. `src/data-freshness.test.ts` fails if `data/` is
+out of step with `overrides.json`.
 
 ## Reporting a wrong date
 

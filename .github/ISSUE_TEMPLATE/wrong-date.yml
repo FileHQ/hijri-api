@@ -1,0 +1,49 @@
+name: Wrong Hijri date
+description: A published Hijri date does not match the Ruet-e-Hilal Committee announcement.
+title: "Wrong date: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A wrong month start is the most serious bug in this project — thank you for reporting it.
+        Please give enough for a maintainer to verify against the announcement.
+  - type: input
+    id: gregorian
+    attributes:
+      label: Gregorian date
+      description: The date whose Hijri value is wrong.
+      placeholder: "2026-08-15"
+    validations:
+      required: true
+  - type: input
+    id: returned
+    attributes:
+      label: What the API returned
+      description: The Hijri date currently served for that Gregorian date.
+      placeholder: "1448-03-02"
+    validations:
+      required: true
+  - type: input
+    id: expected
+    attributes:
+      label: What it should be
+      description: The correct Hijri date.
+      placeholder: "1448-03-01"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link to the Ruet-e-Hilal Committee announcement or a reliable report.
+      placeholder: "https://…"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Optional context, e.g. which city or which confidence level was shown.
+    validations:
+      required: false
