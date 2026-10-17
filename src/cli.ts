@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
- * CLI: generate the data files, or run the announcement watcher. A thin
- * composition root that parses arguments and calls the modules.
+ * CLI: generate the data files, run the announcement watcher, or build a
+ * backfill report for a past Hijri year. A thin composition root that parses
+ * arguments and calls the modules.
  */
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -16,6 +17,7 @@ import {
   runWatcher,
   type WatcherOutcome,
 } from "./watcher/index.js";
+import { buildBackfillReport, renderBackfillMarkdown } from "./backfill/index.js";
 import { CALENDAR_DIR, CALENDAR_INDEX_FILE, OVERRIDES_FILE, PRAYER_DIR, REPO_ROOT } from "./paths.js";
 import { todayInPakistan } from "./dates.js";
 
@@ -107,6 +109,44 @@ function runGenerate(args: Args): void {
   }
 }
 
+function runBackfill(args: Args): void {
+  const today = stringFlag(args.flags, "today") ?? todayInPakistan();
+  const generatedAt = new Date().toISOString();
+  const dryRun = args.flags.get("dry-run") === true;
+  const overrides = loadOverrides();
+  const year =
+    numberList(args.flags.get("hijri-year"))?.[0] ??
+    numberList(args.flags.get("hijri-years"))?.[0] ??
+    toHijri(today).year - 1;
+
+  const { files, index } = buildCalendar({ hijriYears: [year], overrides, today, generatedAt });
+  if (!dryRun) {
+    for (const file of files) writeJson(join(CALENDAR_DIR, `${file.hijri_year}.json`), file);
+    writeJson(CALENDAR_INDEX_FILE, index);
+  }
+
+  const report = buildBackfillReport({ hijriYear: year, overrides });
+  const jsonOut = stringFlag(args.flags, "json-out");
+  if (jsonOut !== undefined) writeJson(jsonOut, report);
+  const markdownOut = stringFlag(args.flags, "markdown-out");
+  if (markdownOut !== undefined) {
+    mkdirSync(dirname(markdownOut), { recursive: true });
+    writeFileSync(markdownOut, renderBackfillMarkdown(report), "utf8");
+  }
+
+  console.log(
+    `backfill: Hijri year ${year} — ${report.confirmedCount}/12 confirmed, ` +
+      `${report.needsSourceCount} need a source${dryRun ? " (dry run)" : ""}`,
+  );
+  for (const month of report.months) {
+    if (month.status === "confirmed") {
+      console.log(`  confirmed ${month.hijriKey} -> ${month.confirmedDate} (${month.sources.length} source(s))`);
+    } else {
+      console.log(`  needs source ${month.hijriKey} — candidates ${month.candidates.join(" / ")}`);
+    }
+  }
+}
+
 function loadRawOverrides(): OverridesFile {
   return JSON.parse(readFileSync(OVERRIDES_FILE, "utf8")) as OverridesFile;
 }
@@ -194,7 +234,11 @@ async function main(): Promise<void> {
     process.exitCode = await runWatch(args);
     return;
   }
-  console.error(`Unknown command "${args.command}". Use "generate" or "watch".`);
+  if (args.command === "backfill") {
+    runBackfill(args);
+    return;
+  }
+  console.error(`Unknown command "${args.command}". Use "generate", "watch", or "backfill".`);
   process.exitCode = 1;
 }
 

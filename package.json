@@ -41,6 +41,7 @@
     "generate:calendar": "tsx src/cli.ts generate --calendar",
     "generate:prayer": "tsx src/cli.ts generate --prayer",
     "watcher": "tsx src/cli.ts watch",
+    "backfill": "tsx src/cli.ts backfill",
     "lint": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
