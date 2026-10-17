@@ -117,4 +117,44 @@ describe("runWatcher", () => {
     const outcome = await runWatcher(options(baseline, fetchImpl));
     expect(outcome.status).toBe("fetch-failed");
   });
+
+  // End-to-end sandbox against a real announcement: the 1 Rabi al-Awwal 1448
+  // (2026-08-15) decision. The record ends at Safar 1448 (2026-07-16), the two
+  // winning headlines name the month but never say "committee", and the moon
+  // was not sighted, so the month runs 30 days.
+  it("proposes the real Rabi al-Awwal 1448 start from the actual headlines", async () => {
+    const rabiOverrides = parseOverrides({
+      coverage_start: "2026-06-17",
+      months: {
+        "1448-01-01": { date: "2026-06-17", sources: ["https://example.com/muharram"] },
+        "1448-02-01": { date: "2026-07-16", sources: ["https://example.com/safar"] },
+      },
+    });
+    const items = [
+      {
+        title: "Rabi ul Awal moon not sighted, Eid Milad un Nabi to fall on Aug 26",
+        link: "https://www.app.com.pk/national/rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-to-fall-on-aug-26/",
+        publisher: "Associated Press Of Pakistan",
+        pubDate: "Thu, 13 Aug 2026 20:00:00 +0500",
+      },
+      {
+        title: "Rabi ul Awal moon not sighted, Eid Milad un Nabi to fall on August 26",
+        link: "https://www.geo.tv/latest/677497-rabi-ul-awal-moon-not-sighted",
+        publisher: "Geo News",
+        pubDate: "Thu, 13 Aug 2026 20:11:00 +0500",
+      },
+    ];
+    const outcome = await runWatcher({
+      overrides: rabiOverrides,
+      fetchImpl: fetchReturning(rss(items)),
+      maghribFor: () => new Date("2026-08-13T19:10:00+05:00"),
+      now: new Date("2026-08-13T20:30:00+05:00"),
+      sources,
+    });
+    expect(outcome).toMatchObject({ status: "proposed" });
+    if (outcome.status === "proposed") {
+      expect(outcome.proposal.gregorian).toBe("2026-08-15");
+      expect(outcome.proposal.hijriKey).toBe("1448-03-01");
+    }
+  });
 });

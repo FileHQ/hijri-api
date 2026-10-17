@@ -6,7 +6,9 @@
  */
 import { describe, expect, it } from "vitest";
 import { HijriCalendar } from "../client/calendar.js";
+import { diffDays } from "../dates.js";
 import { buildCalendar } from "./calendar.js";
+import { nextHijriMonth } from "./months.js";
 import { loadOverrides } from "./overrides.js";
 
 /** Confirmed 1st-of-month Gregorian dates, from the committee announcements. */
@@ -57,5 +59,32 @@ describe("confirmed Pakistan month starts", () => {
     const overrides = loadOverrides();
     const months = overrides.months.filter((month) => month.hijri.year === 1447);
     expect(months).toHaveLength(12);
+  });
+});
+
+// The confirmed record is the backbone of every "confirmed" answer, so guard
+// its internal arithmetic: months must follow one another with no gaps and be
+// exactly 29 or 30 days long.
+describe("confirmed record consistency", () => {
+  const months = loadOverrides().months;
+
+  it("chains each month onto the next Hijri month", () => {
+    for (let index = 1; index < months.length; index += 1) {
+      const previous = months[index - 1];
+      const current = months[index];
+      expect(current?.hijri).toEqual(nextHijriMonth(previous!.hijri));
+    }
+  });
+
+  it("gives every month a 29- or 30-day length", () => {
+    for (let index = 1; index < months.length; index += 1) {
+      const length = diffDays(months[index - 1]!.gregorian, months[index]!.gregorian);
+      expect([29, 30]).toContain(length);
+    }
+  });
+
+  it("starts coverage at the earliest confirmed month", () => {
+    expect(loadOverrides().coverageStart).toBe(months[0]?.gregorian);
+    expect(months[0]?.hijri).toEqual({ year: 1447, month: 1, day: 1 });
   });
 });
