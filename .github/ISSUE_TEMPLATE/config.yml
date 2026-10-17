@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/shaheeranser/hijri-api/discussions
+    about: Ask a question, propose an idea, or show what you built with the API.
+  - name: Contributing guide
+    url: https://github.com/shaheeranser/hijri-api/blob/main/CONTRIBUTING.md
+    about: How to add a city, backfill a month start, or work on the watcher.
