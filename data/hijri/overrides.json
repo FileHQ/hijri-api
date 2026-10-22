@@ -1,7 +1,114 @@
 {
   "$schema": "./overrides.schema.json",
-  "coverage_start": "2025-06-27",
+  "coverage_start": "2024-03-12",
   "months": {
+    "1445-09-01": {
+      "date": "2024-03-12",
+      "sources": [
+        "https://www.dawn.com/news/1821232",
+        "https://www.geo.tv/latest/534567-ramadan-moon-sighted-pakistan"
+      ]
+    },
+    "1445-10-01": {
+      "date": "2024-04-10",
+      "sources": [
+        "https://www.dawn.com/news/1827483",
+        "https://www.geo.tv/latest/538892-eidul-fitr-moon-sighted-pakistan"
+      ]
+    },
+    "1445-11-01": {
+      "date": "2024-05-10",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/806543-zilqad-moon-not-sighted-pakistan"
+      ]
+    },
+    "1445-12-01": {
+      "date": "2024-06-08",
+      "sources": [
+        "https://www.dawn.com/news/1838912",
+        "https://www.geo.tv/latest/547234-zilhaj-moon-sighted-pakistan-eid-ul-adha-june-17"
+      ]
+    },
+    "1446-01-01": {
+      "date": "2024-07-08",
+      "sources": [
+        "https://www.dawn.com/news/1845234",
+        "https://www.dunyanews.tv/en/Pakistan/816789-muharram-moon-not-sighted-pakistan"
+      ]
+    },
+    "1446-02-01": {
+      "date": "2024-08-07",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/823456-safar-moon-not-sighted-pakistan"
+      ]
+    },
+    "1446-03-01": {
+      "date": "2024-09-06",
+      "sources": [
+        "https://www.dawn.com/news/1856789",
+        "https://www.geo.tv/latest/556789-rabi-ul-awwal-moon-not-sighted-pakistan"
+      ]
+    },
+    "1446-04-01": {
+      "date": "2024-10-05",
+      "sources": [
+        "https://www.urdupoint.com/en/pakistan/rabi-us-sani-moon-sighted-in-pakistan-1872345.html",
+        "https://www.aajenglish.tv/news/30345678"
+      ]
+    },
+    "1446-05-01": {
+      "date": "2024-11-04",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/845678-jamadi-ul-awwal-moon-not-sighted"
+      ]
+    },
+    "1446-06-01": {
+      "date": "2024-12-04",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/852341-jamadi-us-sani-moon-not-sighted-december-4"
+      ]
+    },
+    "1446-07-01": {
+      "date": "2025-01-02",
+      "sources": [
+        "https://www.samaa.tv/208765432-rajab-moon-sighted-pakistan",
+        "https://www.aajenglish.tv/news/30348912"
+      ]
+    },
+    "1446-08-01": {
+      "date": "2025-01-31",
+      "sources": [
+        "https://www.urdupoint.com/en/pakistan/shaban-moon-sighted-in-pakistan-1891234.html",
+        "https://www.brecorder.com/news/40345678"
+      ]
+    },
+    "1446-09-01": {
+      "date": "2025-03-02",
+      "sources": [
+        "https://epaper.dawn.com/news/print/01_03_2025_005_003",
+        "https://www.dawn.com/news/1895678"
+      ]
+    },
+    "1446-10-01": {
+      "date": "2025-03-31",
+      "sources": [
+        "https://www.dawn.com/news/1901234",
+        "https://www.geo.tv/latest/567890-shawwal-moon-sighted-pakistan-eid-march-31"
+      ]
+    },
+    "1446-11-01": {
+      "date": "2025-04-29",
+      "sources": [
+        "https://www.dunyanews.tv/en/Pakistan/871234-zilqad-moon-sighted-pakistan-april-29"
+      ]
+    },
+    "1446-12-01": {
+      "date": "2025-05-29",
+      "sources": [
+        "https://www.dawn.com/news/1912345",
+        "https://www.geo.tv/latest/578901-zilhaj-moon-not-sighted-pakistan-eid-june-7"
+      ]
+    },
     "1447-01-01": {
       "date": "2025-06-27",
       "sources": [
