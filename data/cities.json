@@ -25,5 +25,14 @@
     "longitude": 71.5249,
     "elevation": 331,
     "timezone": "Asia/Karachi"
+  },
+  {
+    "id": "quetta",
+    "name": "Quetta",
+    "province": "Balochistan",
+    "latitude": 30.1958,
+    "longitude": 67.0172,
+    "elevation": 1680,
+    "timezone": "Asia/Karachi"
   }
 ]
