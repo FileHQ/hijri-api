@@ -72,6 +72,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          reviewers: FileHQ
           branch: watcher/hijri-month-start
           title: "Watcher: confirm the next Hijri month start"
           body-path: watcher-out/pull-request.md
