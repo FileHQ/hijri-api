@@ -45,6 +45,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          reviewers: FileHQ
           branch: chore/regenerate-data
           title: "Regenerate Hijri calendar and prayer data"
           body: |
