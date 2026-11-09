@@ -85,6 +85,6 @@ describe("confirmed record consistency", () => {
 
   it("starts coverage at the earliest confirmed month", () => {
     expect(loadOverrides().coverageStart).toBe(months[0]?.gregorian);
-    expect(months[0]?.hijri).toEqual({ year: 1447, month: 1, day: 1 });
+    expect(months[0]?.hijri).toEqual({ year: 1424, month: 12, day: 1 });
   });
 });

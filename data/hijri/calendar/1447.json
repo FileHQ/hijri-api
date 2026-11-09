@@ -1,19 +1,23 @@
 {
   "hijri_year": 1447,
-  "coverage_start": "2025-06-27",
-  "generated_at": "2026-11-01T05:53:17.872Z",
+  "coverage_start": "2004-01-24",
+  "generated_at": "2026-11-08T19:37:40.910Z",
   "baseline": "islamic-umalqura (Intl)",
   "days": {
     "2025-06-26": {
-      "hijri": "1447-01-01",
-      "year": 1447,
-      "month": 1,
-      "day": 1,
+      "hijri": "1446-12-29",
+      "year": 1446,
+      "month": 12,
+      "day": 29,
       "month_name": {
-        "en": "Muharram",
-        "ur": "محرم"
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
       },
-      "confidence": "estimated"
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250529",
+        "https://epaper.brecorder.com/2025/05/29"
+      ]
     },
     "2025-06-27": {
       "hijri": "1447-01-01",
@@ -26,8 +30,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-06-28": {
@@ -41,8 +45,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-06-29": {
@@ -56,8 +60,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-06-30": {
@@ -71,8 +75,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-01": {
@@ -86,8 +90,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-02": {
@@ -101,8 +105,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-03": {
@@ -116,8 +120,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-04": {
@@ -131,8 +135,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-05": {
@@ -146,8 +150,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-06": {
@@ -161,8 +165,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-07": {
@@ -176,8 +180,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-08": {
@@ -191,8 +195,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-09": {
@@ -206,8 +210,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-10": {
@@ -221,8 +225,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-11": {
@@ -236,8 +240,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-12": {
@@ -251,8 +255,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-13": {
@@ -266,8 +270,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-14": {
@@ -281,8 +285,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-15": {
@@ -296,8 +300,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-16": {
@@ -311,8 +315,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-17": {
@@ -326,8 +330,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-18": {
@@ -341,8 +345,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-19": {
@@ -356,8 +360,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-20": {
@@ -371,8 +375,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-21": {
@@ -386,8 +390,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-22": {
@@ -401,8 +405,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-23": {
@@ -416,8 +420,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-24": {
@@ -431,8 +435,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-25": {
@@ -446,8 +450,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-26": {
@@ -461,8 +465,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.radio.gov.pk/26-06-2025/muharram-ul-haram-moon-sighted-in-country-tomorrow-will-be-1st-of-muharram-1447-hijri",
-        "https://www.dawn.com/news/1920308"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250627",
+        "https://epaper.brecorder.com/2025/06/27"
       ]
     },
     "2025-07-27": {
@@ -476,8 +480,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-07-28": {
@@ -491,8 +495,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-07-29": {
@@ -506,8 +510,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-07-30": {
@@ -521,8 +525,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-07-31": {
@@ -536,8 +540,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-01": {
@@ -551,8 +555,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-02": {
@@ -566,8 +570,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-03": {
@@ -581,8 +585,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-04": {
@@ -596,8 +600,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-05": {
@@ -611,8 +615,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-06": {
@@ -626,8 +630,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-07": {
@@ -641,8 +645,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-08": {
@@ -656,8 +660,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-09": {
@@ -671,8 +675,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-10": {
@@ -686,8 +690,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-11": {
@@ -701,8 +705,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-12": {
@@ -716,8 +720,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-13": {
@@ -731,8 +735,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-14": {
@@ -746,8 +750,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-15": {
@@ -761,8 +765,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-16": {
@@ -776,8 +780,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-17": {
@@ -791,8 +795,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-18": {
@@ -806,8 +810,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-19": {
@@ -821,8 +825,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-20": {
@@ -836,8 +840,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-21": {
@@ -851,8 +855,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-22": {
@@ -866,8 +870,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-23": {
@@ -881,8 +885,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-24": {
@@ -896,8 +900,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-25": {
@@ -911,8 +915,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/safar-moon-not-sighted-islamic-month-to-begin-on-sunday-mora/",
-        "https://www.nation.com.pk/25-Jul-2025/safar-moon-not-sighted-announces-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250727",
+        "https://epaper.brecorder.com/2025/07/27"
       ]
     },
     "2025-08-26": {
@@ -926,8 +930,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-08-27": {
@@ -941,8 +945,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-08-28": {
@@ -956,8 +960,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-08-29": {
@@ -971,8 +975,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-08-30": {
@@ -986,8 +990,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-08-31": {
@@ -1001,8 +1005,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-01": {
@@ -1016,8 +1020,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-02": {
@@ -1031,8 +1035,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-03": {
@@ -1046,8 +1050,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-04": {
@@ -1061,8 +1065,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-05": {
@@ -1076,8 +1080,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-06": {
@@ -1091,8 +1095,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-07": {
@@ -1106,8 +1110,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-08": {
@@ -1121,8 +1125,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-09": {
@@ -1136,8 +1140,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-10": {
@@ -1151,8 +1155,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-11": {
@@ -1166,8 +1170,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-12": {
@@ -1181,8 +1185,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-13": {
@@ -1196,8 +1200,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-14": {
@@ -1211,8 +1215,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-15": {
@@ -1226,8 +1230,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-16": {
@@ -1241,8 +1245,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-17": {
@@ -1256,8 +1260,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-18": {
@@ -1271,8 +1275,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-19": {
@@ -1286,8 +1290,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-20": {
@@ -1301,8 +1305,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-21": {
@@ -1316,8 +1320,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-22": {
@@ -1331,8 +1335,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-23": {
@@ -1346,8 +1350,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-24": {
@@ -1361,8 +1365,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/rabi-ul-awwal-moon-not-sighted-12th-rabi-ul-awwal-to-fall-on-september-6/",
-        "https://www.thenews.com.pk/latest/1338813-rabi-ul-awal-moon-not-sighted-eid-milad-un-nabi-on-sept-6"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250826",
+        "https://epaper.brecorder.com/2025/08/26"
       ]
     },
     "2025-09-25": {
@@ -1376,8 +1380,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-09-26": {
@@ -1391,8 +1395,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-09-27": {
@@ -1406,8 +1410,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-09-28": {
@@ -1421,8 +1425,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-09-29": {
@@ -1436,8 +1440,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-09-30": {
@@ -1451,8 +1455,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-01": {
@@ -1466,8 +1470,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-02": {
@@ -1481,8 +1485,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-03": {
@@ -1496,8 +1500,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-04": {
@@ -1511,8 +1515,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-05": {
@@ -1526,8 +1530,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-06": {
@@ -1541,8 +1545,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-07": {
@@ -1556,8 +1560,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-08": {
@@ -1571,8 +1575,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-09": {
@@ -1586,8 +1590,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-10": {
@@ -1601,8 +1605,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-11": {
@@ -1616,8 +1620,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-12": {
@@ -1631,8 +1635,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-13": {
@@ -1646,8 +1650,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-14": {
@@ -1661,8 +1665,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-15": {
@@ -1676,8 +1680,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-16": {
@@ -1691,8 +1695,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-17": {
@@ -1706,8 +1710,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-18": {
@@ -1721,8 +1725,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-19": {
@@ -1736,8 +1740,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-20": {
@@ -1751,8 +1755,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-21": {
@@ -1766,8 +1770,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-22": {
@@ -1781,8 +1785,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-23": {
@@ -1796,8 +1800,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/23-Sep-2025/rabi-ul-sani-moon-sighted-pakistan-month-begin-september-25",
-        "https://www.dunyanews.tv/en/Pakistan/908061-no-sighting-of-rabi-ulsani-moon-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20250925",
+        "https://epaper.brecorder.com/2025/09/25"
       ]
     },
     "2025-10-24": {
@@ -1811,8 +1815,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-25": {
@@ -1826,8 +1830,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-26": {
@@ -1841,8 +1845,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-27": {
@@ -1856,8 +1860,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-28": {
@@ -1871,8 +1875,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-29": {
@@ -1886,8 +1890,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-30": {
@@ -1901,8 +1905,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-10-31": {
@@ -1916,8 +1920,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-01": {
@@ -1931,8 +1935,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-02": {
@@ -1946,8 +1950,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-03": {
@@ -1961,8 +1965,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-04": {
@@ -1976,8 +1980,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-05": {
@@ -1991,8 +1995,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-06": {
@@ -2006,8 +2010,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-07": {
@@ -2021,8 +2025,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-08": {
@@ -2036,8 +2040,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-09": {
@@ -2051,8 +2055,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-10": {
@@ -2066,8 +2070,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-11": {
@@ -2081,8 +2085,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-12": {
@@ -2096,8 +2100,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-13": {
@@ -2111,8 +2115,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-14": {
@@ -2126,8 +2130,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-15": {
@@ -2141,8 +2145,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-16": {
@@ -2156,8 +2160,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-17": {
@@ -2171,8 +2175,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-18": {
@@ -2186,8 +2190,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-19": {
@@ -2201,8 +2205,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-20": {
@@ -2216,8 +2220,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-21": {
@@ -2231,8 +2235,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-22": {
@@ -2246,8 +2250,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/24-Oct-2025/jamadi-ul-awwal-moon-sighted",
-        "https://www.dunyanews.tv/en/Pakistan/913705-moon-sighted-in-pakistan-jumada-alawwal-1447-begins-tomorrow"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251024",
+        "https://epaper.brecorder.com/2025/10/24"
       ]
     },
     "2025-11-23": {
@@ -2261,8 +2265,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-24": {
@@ -2276,8 +2280,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-25": {
@@ -2291,8 +2295,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-26": {
@@ -2306,8 +2310,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-27": {
@@ -2321,8 +2325,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-28": {
@@ -2336,8 +2340,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-29": {
@@ -2351,8 +2355,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-11-30": {
@@ -2366,8 +2370,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-01": {
@@ -2381,8 +2385,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-02": {
@@ -2396,8 +2400,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-03": {
@@ -2411,8 +2415,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-04": {
@@ -2426,8 +2430,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-05": {
@@ -2441,8 +2445,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-06": {
@@ -2456,8 +2460,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-07": {
@@ -2471,8 +2475,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-08": {
@@ -2486,8 +2490,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-09": {
@@ -2501,8 +2505,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-10": {
@@ -2516,8 +2520,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-11": {
@@ -2531,8 +2535,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-12": {
@@ -2546,8 +2550,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-13": {
@@ -2561,8 +2565,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-14": {
@@ -2576,8 +2580,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-15": {
@@ -2591,8 +2595,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-16": {
@@ -2606,8 +2610,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-17": {
@@ -2621,8 +2625,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-18": {
@@ -2636,8 +2640,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-19": {
@@ -2651,8 +2655,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-20": {
@@ -2666,8 +2670,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-21": {
@@ -2681,8 +2685,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.dunyanews.tv/en/Pakistan/919332-central-ruetehilal-committee-announces-jamadi-althani-moon-not-sigh",
-        "https://dailyausaf.com/en/pakistan/jamadi-ul-thani-447h-moon-not-sighted/"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251123",
+        "https://epaper.brecorder.com/2025/11/23"
       ]
     },
     "2025-12-22": {
@@ -2696,8 +2700,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-23": {
@@ -2711,8 +2715,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-24": {
@@ -2726,8 +2730,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-25": {
@@ -2741,8 +2745,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-26": {
@@ -2756,8 +2760,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-27": {
@@ -2771,8 +2775,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-28": {
@@ -2786,8 +2790,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-29": {
@@ -2801,8 +2805,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-30": {
@@ -2816,8 +2820,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2025-12-31": {
@@ -2831,8 +2835,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-01": {
@@ -2846,8 +2850,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-02": {
@@ -2861,8 +2865,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-03": {
@@ -2876,8 +2880,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-04": {
@@ -2891,8 +2895,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-05": {
@@ -2906,8 +2910,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-06": {
@@ -2921,8 +2925,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-07": {
@@ -2936,8 +2940,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-08": {
@@ -2951,8 +2955,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-09": {
@@ -2966,8 +2970,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-10": {
@@ -2981,8 +2985,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-11": {
@@ -2996,8 +3000,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-12": {
@@ -3011,8 +3015,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-13": {
@@ -3026,8 +3030,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-14": {
@@ -3041,8 +3045,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-15": {
@@ -3056,8 +3060,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-16": {
@@ -3071,8 +3075,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-17": {
@@ -3086,8 +3090,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-18": {
@@ -3101,8 +3105,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-19": {
@@ -3116,8 +3120,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-20": {
@@ -3131,8 +3135,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/22-Dec-2025/rajab-al-murajjab-moon-sighted-pakistan",
-        "https://www.pakistantoday.com.pk/2025/12/21/rajab-moon-sighted-across-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20251222",
+        "https://epaper.brecorder.com/2025/12/22"
       ]
     },
     "2026-01-21": {
@@ -3146,8 +3150,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-22": {
@@ -3161,8 +3165,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-23": {
@@ -3176,8 +3180,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-24": {
@@ -3191,8 +3195,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-25": {
@@ -3206,8 +3210,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-26": {
@@ -3221,8 +3225,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-27": {
@@ -3236,8 +3240,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-28": {
@@ -3251,8 +3255,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-29": {
@@ -3266,8 +3270,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-30": {
@@ -3281,8 +3285,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-01-31": {
@@ -3296,8 +3300,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-01": {
@@ -3311,8 +3315,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-02": {
@@ -3326,8 +3330,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-03": {
@@ -3341,8 +3345,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-04": {
@@ -3356,8 +3360,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-05": {
@@ -3371,8 +3375,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-06": {
@@ -3386,8 +3390,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-07": {
@@ -3401,8 +3405,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-08": {
@@ -3416,8 +3420,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-09": {
@@ -3431,8 +3435,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-10": {
@@ -3446,8 +3450,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-11": {
@@ -3461,8 +3465,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-12": {
@@ -3476,8 +3480,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-13": {
@@ -3491,8 +3495,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-14": {
@@ -3506,8 +3510,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-15": {
@@ -3521,8 +3525,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-16": {
@@ -3536,8 +3540,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-17": {
@@ -3551,8 +3555,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-18": {
@@ -3566,8 +3570,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/crescent-moon-of-shaban-not-sighted-month-to-begin-wednesday/",
-        "https://www.nation.com.pk/19-Jan-2026/shaban-moon-sighted-first-shaban-fall-january-21-ruet-e-hilal-committee"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260121",
+        "https://epaper.brecorder.com/2026/01/21"
       ]
     },
     "2026-02-19": {
@@ -3581,8 +3585,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-20": {
@@ -3596,8 +3600,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-21": {
@@ -3611,8 +3615,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-22": {
@@ -3626,8 +3630,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-23": {
@@ -3641,8 +3645,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-24": {
@@ -3656,8 +3660,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-25": {
@@ -3671,8 +3675,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-26": {
@@ -3686,8 +3690,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-27": {
@@ -3701,8 +3705,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-02-28": {
@@ -3716,8 +3720,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-01": {
@@ -3731,8 +3735,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-02": {
@@ -3746,8 +3750,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-03": {
@@ -3761,8 +3765,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-04": {
@@ -3776,8 +3780,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-05": {
@@ -3791,8 +3795,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-06": {
@@ -3806,8 +3810,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-07": {
@@ -3821,8 +3825,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-08": {
@@ -3836,8 +3840,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-09": {
@@ -3851,8 +3855,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-10": {
@@ -3866,8 +3870,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-11": {
@@ -3881,8 +3885,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-12": {
@@ -3896,8 +3900,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-13": {
@@ -3911,8 +3915,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-14": {
@@ -3926,8 +3930,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-15": {
@@ -3941,8 +3945,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-16": {
@@ -3956,8 +3960,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-17": {
@@ -3971,8 +3975,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-18": {
@@ -3986,8 +3990,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-19": {
@@ -4001,8 +4005,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-20": {
@@ -4016,8 +4020,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ramazan-moon-sighted-ist-fast-on-february-19-in-pakistan-khabeer-azad/",
-        "https://www.dawn.com/news/1974092"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260219",
+        "https://epaper.brecorder.com/2026/02/19"
       ]
     },
     "2026-03-21": {
@@ -4031,8 +4035,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-22": {
@@ -4046,8 +4050,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-23": {
@@ -4061,8 +4065,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-24": {
@@ -4076,8 +4080,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-25": {
@@ -4091,8 +4095,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-26": {
@@ -4106,8 +4110,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-27": {
@@ -4121,8 +4125,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-28": {
@@ -4136,8 +4140,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-29": {
@@ -4151,8 +4155,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-30": {
@@ -4166,8 +4170,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-03-31": {
@@ -4181,8 +4185,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-01": {
@@ -4196,8 +4200,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-02": {
@@ -4211,8 +4215,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-03": {
@@ -4226,8 +4230,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-04": {
@@ -4241,8 +4245,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-05": {
@@ -4256,8 +4260,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-06": {
@@ -4271,8 +4275,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-07": {
@@ -4286,8 +4290,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-08": {
@@ -4301,8 +4305,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-09": {
@@ -4316,8 +4320,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-10": {
@@ -4331,8 +4335,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-11": {
@@ -4346,8 +4350,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-12": {
@@ -4361,8 +4365,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-13": {
@@ -4376,8 +4380,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-14": {
@@ -4391,8 +4395,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-15": {
@@ -4406,8 +4410,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-16": {
@@ -4421,8 +4425,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-17": {
@@ -4436,8 +4440,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-18": {
@@ -4451,8 +4455,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.nation.com.pk/20-Mar-2026/pakistan-celebrate-eid-saturday-shawwal-moon-sighting",
-        "https://www.arabnews.pk/pakistan/pakistan-to-celebrate-eid-al-fitr-on-saturday-after-moon-not-sighted-2636941"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260321",
+        "https://epaper.brecorder.com/2026/03/21"
       ]
     },
     "2026-04-19": {
@@ -4466,8 +4470,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-20": {
@@ -4481,8 +4485,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-21": {
@@ -4496,8 +4500,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-22": {
@@ -4511,8 +4515,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-23": {
@@ -4526,8 +4530,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-24": {
@@ -4541,8 +4545,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-25": {
@@ -4556,8 +4560,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-26": {
@@ -4571,8 +4575,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-27": {
@@ -4586,8 +4590,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-28": {
@@ -4601,8 +4605,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-29": {
@@ -4616,8 +4620,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-04-30": {
@@ -4631,8 +4635,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-01": {
@@ -4646,8 +4650,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-02": {
@@ -4661,8 +4665,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-03": {
@@ -4676,8 +4680,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-04": {
@@ -4691,8 +4695,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-05": {
@@ -4706,8 +4710,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-06": {
@@ -4721,8 +4725,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-07": {
@@ -4736,8 +4740,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-08": {
@@ -4751,8 +4755,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-09": {
@@ -4766,8 +4770,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-10": {
@@ -4781,8 +4785,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-11": {
@@ -4796,8 +4800,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-12": {
@@ -4811,8 +4815,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-13": {
@@ -4826,8 +4830,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-14": {
@@ -4841,8 +4845,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-15": {
@@ -4856,8 +4860,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-16": {
@@ -4871,8 +4875,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-17": {
@@ -4886,8 +4890,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.app.com.pk/national/ziqad-moon-sighted-1st-ziqad-to-fall-on-sunday-ruet-e-hilal/",
-        "https://www.radio.gov.pk/18-04-2026/moon-of-ziqaad-sighted-in-pakistan"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260419",
+        "https://epaper.brecorder.com/2026/04/19"
       ]
     },
     "2026-05-18": {
@@ -4901,8 +4905,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-19": {
@@ -4916,8 +4920,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-20": {
@@ -4931,8 +4935,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-21": {
@@ -4946,8 +4950,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-22": {
@@ -4961,8 +4965,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-23": {
@@ -4976,8 +4980,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-24": {
@@ -4991,8 +4995,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-25": {
@@ -5006,8 +5010,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-26": {
@@ -5021,8 +5025,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-27": {
@@ -5036,8 +5040,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-28": {
@@ -5051,8 +5055,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-29": {
@@ -5066,8 +5070,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-30": {
@@ -5081,8 +5085,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-05-31": {
@@ -5096,8 +5100,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-01": {
@@ -5111,8 +5115,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-02": {
@@ -5126,8 +5130,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-03": {
@@ -5141,8 +5145,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-04": {
@@ -5156,8 +5160,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-05": {
@@ -5171,8 +5175,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-06": {
@@ -5186,8 +5190,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-07": {
@@ -5201,8 +5205,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-08": {
@@ -5216,8 +5220,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-09": {
@@ -5231,8 +5235,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-10": {
@@ -5246,8 +5250,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-11": {
@@ -5261,8 +5265,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-12": {
@@ -5276,8 +5280,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-13": {
@@ -5291,8 +5295,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-14": {
@@ -5306,8 +5310,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     },
     "2026-06-15": {
@@ -5321,8 +5325,8 @@
       },
       "confidence": "confirmed",
       "sources": [
-        "https://www.arabnews.pk/pakistan/dhul-hijjah-moon-sighted-in-pakistan-eid-al-adha-to-be-observed-on-may-27-2643931",
-        "https://www.thenews.pk/story/1416005-eid-ul-adha-ruet-e-hilal-committee-meeting-underway-for-zil-hajj-moon-sighting"
+        "https://www.express.com.pk/epaper/index.aspx?Date=20260518",
+        "https://epaper.brecorder.com/2026/05/18"
       ]
     }
   }

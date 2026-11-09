@@ -1,0 +1,5318 @@
+{
+  "hijri_year": 1445,
+  "coverage_start": "2004-01-24",
+  "generated_at": "2026-11-08T19:37:40.910Z",
+  "baseline": "islamic-umalqura (Intl)",
+  "days": {
+    "2023-07-19": {
+      "hijri": "1444-12-30",
+      "year": 1444,
+      "month": 12,
+      "day": 30,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230620",
+        "https://epaper.brecorder.com/2023/06/20"
+      ]
+    },
+    "2023-07-20": {
+      "hijri": "1445-01-01",
+      "year": 1445,
+      "month": 1,
+      "day": 1,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-21": {
+      "hijri": "1445-01-02",
+      "year": 1445,
+      "month": 1,
+      "day": 2,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-22": {
+      "hijri": "1445-01-03",
+      "year": 1445,
+      "month": 1,
+      "day": 3,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-23": {
+      "hijri": "1445-01-04",
+      "year": 1445,
+      "month": 1,
+      "day": 4,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-24": {
+      "hijri": "1445-01-05",
+      "year": 1445,
+      "month": 1,
+      "day": 5,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-25": {
+      "hijri": "1445-01-06",
+      "year": 1445,
+      "month": 1,
+      "day": 6,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-26": {
+      "hijri": "1445-01-07",
+      "year": 1445,
+      "month": 1,
+      "day": 7,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-27": {
+      "hijri": "1445-01-08",
+      "year": 1445,
+      "month": 1,
+      "day": 8,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-28": {
+      "hijri": "1445-01-09",
+      "year": 1445,
+      "month": 1,
+      "day": 9,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-29": {
+      "hijri": "1445-01-10",
+      "year": 1445,
+      "month": 1,
+      "day": 10,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-30": {
+      "hijri": "1445-01-11",
+      "year": 1445,
+      "month": 1,
+      "day": 11,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-07-31": {
+      "hijri": "1445-01-12",
+      "year": 1445,
+      "month": 1,
+      "day": 12,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-01": {
+      "hijri": "1445-01-13",
+      "year": 1445,
+      "month": 1,
+      "day": 13,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-02": {
+      "hijri": "1445-01-14",
+      "year": 1445,
+      "month": 1,
+      "day": 14,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-03": {
+      "hijri": "1445-01-15",
+      "year": 1445,
+      "month": 1,
+      "day": 15,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-04": {
+      "hijri": "1445-01-16",
+      "year": 1445,
+      "month": 1,
+      "day": 16,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-05": {
+      "hijri": "1445-01-17",
+      "year": 1445,
+      "month": 1,
+      "day": 17,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-06": {
+      "hijri": "1445-01-18",
+      "year": 1445,
+      "month": 1,
+      "day": 18,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-07": {
+      "hijri": "1445-01-19",
+      "year": 1445,
+      "month": 1,
+      "day": 19,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-08": {
+      "hijri": "1445-01-20",
+      "year": 1445,
+      "month": 1,
+      "day": 20,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-09": {
+      "hijri": "1445-01-21",
+      "year": 1445,
+      "month": 1,
+      "day": 21,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-10": {
+      "hijri": "1445-01-22",
+      "year": 1445,
+      "month": 1,
+      "day": 22,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-11": {
+      "hijri": "1445-01-23",
+      "year": 1445,
+      "month": 1,
+      "day": 23,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-12": {
+      "hijri": "1445-01-24",
+      "year": 1445,
+      "month": 1,
+      "day": 24,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-13": {
+      "hijri": "1445-01-25",
+      "year": 1445,
+      "month": 1,
+      "day": 25,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-14": {
+      "hijri": "1445-01-26",
+      "year": 1445,
+      "month": 1,
+      "day": 26,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-15": {
+      "hijri": "1445-01-27",
+      "year": 1445,
+      "month": 1,
+      "day": 27,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-16": {
+      "hijri": "1445-01-28",
+      "year": 1445,
+      "month": 1,
+      "day": 28,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-17": {
+      "hijri": "1445-01-29",
+      "year": 1445,
+      "month": 1,
+      "day": 29,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-18": {
+      "hijri": "1445-01-30",
+      "year": 1445,
+      "month": 1,
+      "day": 30,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230720",
+        "https://epaper.brecorder.com/2023/07/20"
+      ]
+    },
+    "2023-08-19": {
+      "hijri": "1445-02-01",
+      "year": 1445,
+      "month": 2,
+      "day": 1,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-20": {
+      "hijri": "1445-02-02",
+      "year": 1445,
+      "month": 2,
+      "day": 2,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-21": {
+      "hijri": "1445-02-03",
+      "year": 1445,
+      "month": 2,
+      "day": 3,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-22": {
+      "hijri": "1445-02-04",
+      "year": 1445,
+      "month": 2,
+      "day": 4,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-23": {
+      "hijri": "1445-02-05",
+      "year": 1445,
+      "month": 2,
+      "day": 5,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-24": {
+      "hijri": "1445-02-06",
+      "year": 1445,
+      "month": 2,
+      "day": 6,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-25": {
+      "hijri": "1445-02-07",
+      "year": 1445,
+      "month": 2,
+      "day": 7,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-26": {
+      "hijri": "1445-02-08",
+      "year": 1445,
+      "month": 2,
+      "day": 8,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-27": {
+      "hijri": "1445-02-09",
+      "year": 1445,
+      "month": 2,
+      "day": 9,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-28": {
+      "hijri": "1445-02-10",
+      "year": 1445,
+      "month": 2,
+      "day": 10,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-29": {
+      "hijri": "1445-02-11",
+      "year": 1445,
+      "month": 2,
+      "day": 11,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-30": {
+      "hijri": "1445-02-12",
+      "year": 1445,
+      "month": 2,
+      "day": 12,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-08-31": {
+      "hijri": "1445-02-13",
+      "year": 1445,
+      "month": 2,
+      "day": 13,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-01": {
+      "hijri": "1445-02-14",
+      "year": 1445,
+      "month": 2,
+      "day": 14,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-02": {
+      "hijri": "1445-02-15",
+      "year": 1445,
+      "month": 2,
+      "day": 15,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-03": {
+      "hijri": "1445-02-16",
+      "year": 1445,
+      "month": 2,
+      "day": 16,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-04": {
+      "hijri": "1445-02-17",
+      "year": 1445,
+      "month": 2,
+      "day": 17,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-05": {
+      "hijri": "1445-02-18",
+      "year": 1445,
+      "month": 2,
+      "day": 18,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-06": {
+      "hijri": "1445-02-19",
+      "year": 1445,
+      "month": 2,
+      "day": 19,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-07": {
+      "hijri": "1445-02-20",
+      "year": 1445,
+      "month": 2,
+      "day": 20,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-08": {
+      "hijri": "1445-02-21",
+      "year": 1445,
+      "month": 2,
+      "day": 21,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-09": {
+      "hijri": "1445-02-22",
+      "year": 1445,
+      "month": 2,
+      "day": 22,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-10": {
+      "hijri": "1445-02-23",
+      "year": 1445,
+      "month": 2,
+      "day": 23,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-11": {
+      "hijri": "1445-02-24",
+      "year": 1445,
+      "month": 2,
+      "day": 24,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-12": {
+      "hijri": "1445-02-25",
+      "year": 1445,
+      "month": 2,
+      "day": 25,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-13": {
+      "hijri": "1445-02-26",
+      "year": 1445,
+      "month": 2,
+      "day": 26,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-14": {
+      "hijri": "1445-02-27",
+      "year": 1445,
+      "month": 2,
+      "day": 27,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-15": {
+      "hijri": "1445-02-28",
+      "year": 1445,
+      "month": 2,
+      "day": 28,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-16": {
+      "hijri": "1445-02-29",
+      "year": 1445,
+      "month": 2,
+      "day": 29,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-17": {
+      "hijri": "1445-02-30",
+      "year": 1445,
+      "month": 2,
+      "day": 30,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230819",
+        "https://epaper.brecorder.com/2023/08/19"
+      ]
+    },
+    "2023-09-18": {
+      "hijri": "1445-03-01",
+      "year": 1445,
+      "month": 3,
+      "day": 1,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-19": {
+      "hijri": "1445-03-02",
+      "year": 1445,
+      "month": 3,
+      "day": 2,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-20": {
+      "hijri": "1445-03-03",
+      "year": 1445,
+      "month": 3,
+      "day": 3,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-21": {
+      "hijri": "1445-03-04",
+      "year": 1445,
+      "month": 3,
+      "day": 4,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-22": {
+      "hijri": "1445-03-05",
+      "year": 1445,
+      "month": 3,
+      "day": 5,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-23": {
+      "hijri": "1445-03-06",
+      "year": 1445,
+      "month": 3,
+      "day": 6,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-24": {
+      "hijri": "1445-03-07",
+      "year": 1445,
+      "month": 3,
+      "day": 7,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-25": {
+      "hijri": "1445-03-08",
+      "year": 1445,
+      "month": 3,
+      "day": 8,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-26": {
+      "hijri": "1445-03-09",
+      "year": 1445,
+      "month": 3,
+      "day": 9,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-27": {
+      "hijri": "1445-03-10",
+      "year": 1445,
+      "month": 3,
+      "day": 10,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-28": {
+      "hijri": "1445-03-11",
+      "year": 1445,
+      "month": 3,
+      "day": 11,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-29": {
+      "hijri": "1445-03-12",
+      "year": 1445,
+      "month": 3,
+      "day": 12,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-09-30": {
+      "hijri": "1445-03-13",
+      "year": 1445,
+      "month": 3,
+      "day": 13,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-01": {
+      "hijri": "1445-03-14",
+      "year": 1445,
+      "month": 3,
+      "day": 14,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-02": {
+      "hijri": "1445-03-15",
+      "year": 1445,
+      "month": 3,
+      "day": 15,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-03": {
+      "hijri": "1445-03-16",
+      "year": 1445,
+      "month": 3,
+      "day": 16,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-04": {
+      "hijri": "1445-03-17",
+      "year": 1445,
+      "month": 3,
+      "day": 17,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-05": {
+      "hijri": "1445-03-18",
+      "year": 1445,
+      "month": 3,
+      "day": 18,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-06": {
+      "hijri": "1445-03-19",
+      "year": 1445,
+      "month": 3,
+      "day": 19,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-07": {
+      "hijri": "1445-03-20",
+      "year": 1445,
+      "month": 3,
+      "day": 20,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-08": {
+      "hijri": "1445-03-21",
+      "year": 1445,
+      "month": 3,
+      "day": 21,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-09": {
+      "hijri": "1445-03-22",
+      "year": 1445,
+      "month": 3,
+      "day": 22,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-10": {
+      "hijri": "1445-03-23",
+      "year": 1445,
+      "month": 3,
+      "day": 23,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-11": {
+      "hijri": "1445-03-24",
+      "year": 1445,
+      "month": 3,
+      "day": 24,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-12": {
+      "hijri": "1445-03-25",
+      "year": 1445,
+      "month": 3,
+      "day": 25,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-13": {
+      "hijri": "1445-03-26",
+      "year": 1445,
+      "month": 3,
+      "day": 26,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-14": {
+      "hijri": "1445-03-27",
+      "year": 1445,
+      "month": 3,
+      "day": 27,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-15": {
+      "hijri": "1445-03-28",
+      "year": 1445,
+      "month": 3,
+      "day": 28,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-16": {
+      "hijri": "1445-03-29",
+      "year": 1445,
+      "month": 3,
+      "day": 29,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20230918",
+        "https://epaper.brecorder.com/2023/09/18"
+      ]
+    },
+    "2023-10-17": {
+      "hijri": "1445-04-01",
+      "year": 1445,
+      "month": 4,
+      "day": 1,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-18": {
+      "hijri": "1445-04-02",
+      "year": 1445,
+      "month": 4,
+      "day": 2,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-19": {
+      "hijri": "1445-04-03",
+      "year": 1445,
+      "month": 4,
+      "day": 3,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-20": {
+      "hijri": "1445-04-04",
+      "year": 1445,
+      "month": 4,
+      "day": 4,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-21": {
+      "hijri": "1445-04-05",
+      "year": 1445,
+      "month": 4,
+      "day": 5,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-22": {
+      "hijri": "1445-04-06",
+      "year": 1445,
+      "month": 4,
+      "day": 6,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-23": {
+      "hijri": "1445-04-07",
+      "year": 1445,
+      "month": 4,
+      "day": 7,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-24": {
+      "hijri": "1445-04-08",
+      "year": 1445,
+      "month": 4,
+      "day": 8,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-25": {
+      "hijri": "1445-04-09",
+      "year": 1445,
+      "month": 4,
+      "day": 9,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-26": {
+      "hijri": "1445-04-10",
+      "year": 1445,
+      "month": 4,
+      "day": 10,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-27": {
+      "hijri": "1445-04-11",
+      "year": 1445,
+      "month": 4,
+      "day": 11,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-28": {
+      "hijri": "1445-04-12",
+      "year": 1445,
+      "month": 4,
+      "day": 12,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-29": {
+      "hijri": "1445-04-13",
+      "year": 1445,
+      "month": 4,
+      "day": 13,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-30": {
+      "hijri": "1445-04-14",
+      "year": 1445,
+      "month": 4,
+      "day": 14,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-10-31": {
+      "hijri": "1445-04-15",
+      "year": 1445,
+      "month": 4,
+      "day": 15,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-01": {
+      "hijri": "1445-04-16",
+      "year": 1445,
+      "month": 4,
+      "day": 16,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-02": {
+      "hijri": "1445-04-17",
+      "year": 1445,
+      "month": 4,
+      "day": 17,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-03": {
+      "hijri": "1445-04-18",
+      "year": 1445,
+      "month": 4,
+      "day": 18,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-04": {
+      "hijri": "1445-04-19",
+      "year": 1445,
+      "month": 4,
+      "day": 19,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-05": {
+      "hijri": "1445-04-20",
+      "year": 1445,
+      "month": 4,
+      "day": 20,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-06": {
+      "hijri": "1445-04-21",
+      "year": 1445,
+      "month": 4,
+      "day": 21,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-07": {
+      "hijri": "1445-04-22",
+      "year": 1445,
+      "month": 4,
+      "day": 22,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-08": {
+      "hijri": "1445-04-23",
+      "year": 1445,
+      "month": 4,
+      "day": 23,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-09": {
+      "hijri": "1445-04-24",
+      "year": 1445,
+      "month": 4,
+      "day": 24,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-10": {
+      "hijri": "1445-04-25",
+      "year": 1445,
+      "month": 4,
+      "day": 25,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-11": {
+      "hijri": "1445-04-26",
+      "year": 1445,
+      "month": 4,
+      "day": 26,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-12": {
+      "hijri": "1445-04-27",
+      "year": 1445,
+      "month": 4,
+      "day": 27,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-13": {
+      "hijri": "1445-04-28",
+      "year": 1445,
+      "month": 4,
+      "day": 28,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-14": {
+      "hijri": "1445-04-29",
+      "year": 1445,
+      "month": 4,
+      "day": 29,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-15": {
+      "hijri": "1445-04-30",
+      "year": 1445,
+      "month": 4,
+      "day": 30,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231017",
+        "https://epaper.brecorder.com/2023/10/17"
+      ]
+    },
+    "2023-11-16": {
+      "hijri": "1445-05-01",
+      "year": 1445,
+      "month": 5,
+      "day": 1,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-17": {
+      "hijri": "1445-05-02",
+      "year": 1445,
+      "month": 5,
+      "day": 2,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-18": {
+      "hijri": "1445-05-03",
+      "year": 1445,
+      "month": 5,
+      "day": 3,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-19": {
+      "hijri": "1445-05-04",
+      "year": 1445,
+      "month": 5,
+      "day": 4,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-20": {
+      "hijri": "1445-05-05",
+      "year": 1445,
+      "month": 5,
+      "day": 5,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-21": {
+      "hijri": "1445-05-06",
+      "year": 1445,
+      "month": 5,
+      "day": 6,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-22": {
+      "hijri": "1445-05-07",
+      "year": 1445,
+      "month": 5,
+      "day": 7,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-23": {
+      "hijri": "1445-05-08",
+      "year": 1445,
+      "month": 5,
+      "day": 8,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-24": {
+      "hijri": "1445-05-09",
+      "year": 1445,
+      "month": 5,
+      "day": 9,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-25": {
+      "hijri": "1445-05-10",
+      "year": 1445,
+      "month": 5,
+      "day": 10,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-26": {
+      "hijri": "1445-05-11",
+      "year": 1445,
+      "month": 5,
+      "day": 11,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-27": {
+      "hijri": "1445-05-12",
+      "year": 1445,
+      "month": 5,
+      "day": 12,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-28": {
+      "hijri": "1445-05-13",
+      "year": 1445,
+      "month": 5,
+      "day": 13,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-29": {
+      "hijri": "1445-05-14",
+      "year": 1445,
+      "month": 5,
+      "day": 14,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-11-30": {
+      "hijri": "1445-05-15",
+      "year": 1445,
+      "month": 5,
+      "day": 15,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-01": {
+      "hijri": "1445-05-16",
+      "year": 1445,
+      "month": 5,
+      "day": 16,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-02": {
+      "hijri": "1445-05-17",
+      "year": 1445,
+      "month": 5,
+      "day": 17,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-03": {
+      "hijri": "1445-05-18",
+      "year": 1445,
+      "month": 5,
+      "day": 18,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-04": {
+      "hijri": "1445-05-19",
+      "year": 1445,
+      "month": 5,
+      "day": 19,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-05": {
+      "hijri": "1445-05-20",
+      "year": 1445,
+      "month": 5,
+      "day": 20,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-06": {
+      "hijri": "1445-05-21",
+      "year": 1445,
+      "month": 5,
+      "day": 21,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-07": {
+      "hijri": "1445-05-22",
+      "year": 1445,
+      "month": 5,
+      "day": 22,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-08": {
+      "hijri": "1445-05-23",
+      "year": 1445,
+      "month": 5,
+      "day": 23,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-09": {
+      "hijri": "1445-05-24",
+      "year": 1445,
+      "month": 5,
+      "day": 24,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-10": {
+      "hijri": "1445-05-25",
+      "year": 1445,
+      "month": 5,
+      "day": 25,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-11": {
+      "hijri": "1445-05-26",
+      "year": 1445,
+      "month": 5,
+      "day": 26,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-12": {
+      "hijri": "1445-05-27",
+      "year": 1445,
+      "month": 5,
+      "day": 27,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-13": {
+      "hijri": "1445-05-28",
+      "year": 1445,
+      "month": 5,
+      "day": 28,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-14": {
+      "hijri": "1445-05-29",
+      "year": 1445,
+      "month": 5,
+      "day": 29,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231116",
+        "https://epaper.brecorder.com/2023/11/16"
+      ]
+    },
+    "2023-12-15": {
+      "hijri": "1445-06-01",
+      "year": 1445,
+      "month": 6,
+      "day": 1,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-16": {
+      "hijri": "1445-06-02",
+      "year": 1445,
+      "month": 6,
+      "day": 2,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-17": {
+      "hijri": "1445-06-03",
+      "year": 1445,
+      "month": 6,
+      "day": 3,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-18": {
+      "hijri": "1445-06-04",
+      "year": 1445,
+      "month": 6,
+      "day": 4,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-19": {
+      "hijri": "1445-06-05",
+      "year": 1445,
+      "month": 6,
+      "day": 5,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-20": {
+      "hijri": "1445-06-06",
+      "year": 1445,
+      "month": 6,
+      "day": 6,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-21": {
+      "hijri": "1445-06-07",
+      "year": 1445,
+      "month": 6,
+      "day": 7,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-22": {
+      "hijri": "1445-06-08",
+      "year": 1445,
+      "month": 6,
+      "day": 8,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-23": {
+      "hijri": "1445-06-09",
+      "year": 1445,
+      "month": 6,
+      "day": 9,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-24": {
+      "hijri": "1445-06-10",
+      "year": 1445,
+      "month": 6,
+      "day": 10,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-25": {
+      "hijri": "1445-06-11",
+      "year": 1445,
+      "month": 6,
+      "day": 11,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-26": {
+      "hijri": "1445-06-12",
+      "year": 1445,
+      "month": 6,
+      "day": 12,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-27": {
+      "hijri": "1445-06-13",
+      "year": 1445,
+      "month": 6,
+      "day": 13,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-28": {
+      "hijri": "1445-06-14",
+      "year": 1445,
+      "month": 6,
+      "day": 14,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-29": {
+      "hijri": "1445-06-15",
+      "year": 1445,
+      "month": 6,
+      "day": 15,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-30": {
+      "hijri": "1445-06-16",
+      "year": 1445,
+      "month": 6,
+      "day": 16,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2023-12-31": {
+      "hijri": "1445-06-17",
+      "year": 1445,
+      "month": 6,
+      "day": 17,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-01": {
+      "hijri": "1445-06-18",
+      "year": 1445,
+      "month": 6,
+      "day": 18,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-02": {
+      "hijri": "1445-06-19",
+      "year": 1445,
+      "month": 6,
+      "day": 19,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-03": {
+      "hijri": "1445-06-20",
+      "year": 1445,
+      "month": 6,
+      "day": 20,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-04": {
+      "hijri": "1445-06-21",
+      "year": 1445,
+      "month": 6,
+      "day": 21,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-05": {
+      "hijri": "1445-06-22",
+      "year": 1445,
+      "month": 6,
+      "day": 22,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-06": {
+      "hijri": "1445-06-23",
+      "year": 1445,
+      "month": 6,
+      "day": 23,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-07": {
+      "hijri": "1445-06-24",
+      "year": 1445,
+      "month": 6,
+      "day": 24,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-08": {
+      "hijri": "1445-06-25",
+      "year": 1445,
+      "month": 6,
+      "day": 25,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-09": {
+      "hijri": "1445-06-26",
+      "year": 1445,
+      "month": 6,
+      "day": 26,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-10": {
+      "hijri": "1445-06-27",
+      "year": 1445,
+      "month": 6,
+      "day": 27,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-11": {
+      "hijri": "1445-06-28",
+      "year": 1445,
+      "month": 6,
+      "day": 28,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-12": {
+      "hijri": "1445-06-29",
+      "year": 1445,
+      "month": 6,
+      "day": 29,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20231215",
+        "https://epaper.brecorder.com/2023/12/15"
+      ]
+    },
+    "2024-01-13": {
+      "hijri": "1445-07-01",
+      "year": 1445,
+      "month": 7,
+      "day": 1,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-14": {
+      "hijri": "1445-07-02",
+      "year": 1445,
+      "month": 7,
+      "day": 2,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-15": {
+      "hijri": "1445-07-03",
+      "year": 1445,
+      "month": 7,
+      "day": 3,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-16": {
+      "hijri": "1445-07-04",
+      "year": 1445,
+      "month": 7,
+      "day": 4,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-17": {
+      "hijri": "1445-07-05",
+      "year": 1445,
+      "month": 7,
+      "day": 5,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-18": {
+      "hijri": "1445-07-06",
+      "year": 1445,
+      "month": 7,
+      "day": 6,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-19": {
+      "hijri": "1445-07-07",
+      "year": 1445,
+      "month": 7,
+      "day": 7,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-20": {
+      "hijri": "1445-07-08",
+      "year": 1445,
+      "month": 7,
+      "day": 8,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-21": {
+      "hijri": "1445-07-09",
+      "year": 1445,
+      "month": 7,
+      "day": 9,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-22": {
+      "hijri": "1445-07-10",
+      "year": 1445,
+      "month": 7,
+      "day": 10,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-23": {
+      "hijri": "1445-07-11",
+      "year": 1445,
+      "month": 7,
+      "day": 11,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-24": {
+      "hijri": "1445-07-12",
+      "year": 1445,
+      "month": 7,
+      "day": 12,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-25": {
+      "hijri": "1445-07-13",
+      "year": 1445,
+      "month": 7,
+      "day": 13,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-26": {
+      "hijri": "1445-07-14",
+      "year": 1445,
+      "month": 7,
+      "day": 14,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-27": {
+      "hijri": "1445-07-15",
+      "year": 1445,
+      "month": 7,
+      "day": 15,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-28": {
+      "hijri": "1445-07-16",
+      "year": 1445,
+      "month": 7,
+      "day": 16,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-29": {
+      "hijri": "1445-07-17",
+      "year": 1445,
+      "month": 7,
+      "day": 17,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-30": {
+      "hijri": "1445-07-18",
+      "year": 1445,
+      "month": 7,
+      "day": 18,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-01-31": {
+      "hijri": "1445-07-19",
+      "year": 1445,
+      "month": 7,
+      "day": 19,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-01": {
+      "hijri": "1445-07-20",
+      "year": 1445,
+      "month": 7,
+      "day": 20,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-02": {
+      "hijri": "1445-07-21",
+      "year": 1445,
+      "month": 7,
+      "day": 21,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-03": {
+      "hijri": "1445-07-22",
+      "year": 1445,
+      "month": 7,
+      "day": 22,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-04": {
+      "hijri": "1445-07-23",
+      "year": 1445,
+      "month": 7,
+      "day": 23,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-05": {
+      "hijri": "1445-07-24",
+      "year": 1445,
+      "month": 7,
+      "day": 24,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-06": {
+      "hijri": "1445-07-25",
+      "year": 1445,
+      "month": 7,
+      "day": 25,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-07": {
+      "hijri": "1445-07-26",
+      "year": 1445,
+      "month": 7,
+      "day": 26,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-08": {
+      "hijri": "1445-07-27",
+      "year": 1445,
+      "month": 7,
+      "day": 27,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-09": {
+      "hijri": "1445-07-28",
+      "year": 1445,
+      "month": 7,
+      "day": 28,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-10": {
+      "hijri": "1445-07-29",
+      "year": 1445,
+      "month": 7,
+      "day": 29,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-11": {
+      "hijri": "1445-07-30",
+      "year": 1445,
+      "month": 7,
+      "day": 30,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240113",
+        "https://epaper.brecorder.com/2024/01/13"
+      ]
+    },
+    "2024-02-12": {
+      "hijri": "1445-08-01",
+      "year": 1445,
+      "month": 8,
+      "day": 1,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-13": {
+      "hijri": "1445-08-02",
+      "year": 1445,
+      "month": 8,
+      "day": 2,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-14": {
+      "hijri": "1445-08-03",
+      "year": 1445,
+      "month": 8,
+      "day": 3,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-15": {
+      "hijri": "1445-08-04",
+      "year": 1445,
+      "month": 8,
+      "day": 4,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-16": {
+      "hijri": "1445-08-05",
+      "year": 1445,
+      "month": 8,
+      "day": 5,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-17": {
+      "hijri": "1445-08-06",
+      "year": 1445,
+      "month": 8,
+      "day": 6,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-18": {
+      "hijri": "1445-08-07",
+      "year": 1445,
+      "month": 8,
+      "day": 7,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-19": {
+      "hijri": "1445-08-08",
+      "year": 1445,
+      "month": 8,
+      "day": 8,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-20": {
+      "hijri": "1445-08-09",
+      "year": 1445,
+      "month": 8,
+      "day": 9,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-21": {
+      "hijri": "1445-08-10",
+      "year": 1445,
+      "month": 8,
+      "day": 10,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-22": {
+      "hijri": "1445-08-11",
+      "year": 1445,
+      "month": 8,
+      "day": 11,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-23": {
+      "hijri": "1445-08-12",
+      "year": 1445,
+      "month": 8,
+      "day": 12,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-24": {
+      "hijri": "1445-08-13",
+      "year": 1445,
+      "month": 8,
+      "day": 13,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-25": {
+      "hijri": "1445-08-14",
+      "year": 1445,
+      "month": 8,
+      "day": 14,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-26": {
+      "hijri": "1445-08-15",
+      "year": 1445,
+      "month": 8,
+      "day": 15,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-27": {
+      "hijri": "1445-08-16",
+      "year": 1445,
+      "month": 8,
+      "day": 16,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-28": {
+      "hijri": "1445-08-17",
+      "year": 1445,
+      "month": 8,
+      "day": 17,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-02-29": {
+      "hijri": "1445-08-18",
+      "year": 1445,
+      "month": 8,
+      "day": 18,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-01": {
+      "hijri": "1445-08-19",
+      "year": 1445,
+      "month": 8,
+      "day": 19,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-02": {
+      "hijri": "1445-08-20",
+      "year": 1445,
+      "month": 8,
+      "day": 20,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-03": {
+      "hijri": "1445-08-21",
+      "year": 1445,
+      "month": 8,
+      "day": 21,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-04": {
+      "hijri": "1445-08-22",
+      "year": 1445,
+      "month": 8,
+      "day": 22,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-05": {
+      "hijri": "1445-08-23",
+      "year": 1445,
+      "month": 8,
+      "day": 23,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-06": {
+      "hijri": "1445-08-24",
+      "year": 1445,
+      "month": 8,
+      "day": 24,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-07": {
+      "hijri": "1445-08-25",
+      "year": 1445,
+      "month": 8,
+      "day": 25,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-08": {
+      "hijri": "1445-08-26",
+      "year": 1445,
+      "month": 8,
+      "day": 26,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-09": {
+      "hijri": "1445-08-27",
+      "year": 1445,
+      "month": 8,
+      "day": 27,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-10": {
+      "hijri": "1445-08-28",
+      "year": 1445,
+      "month": 8,
+      "day": 28,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-11": {
+      "hijri": "1445-08-29",
+      "year": 1445,
+      "month": 8,
+      "day": 29,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240212",
+        "https://epaper.brecorder.com/2024/02/12"
+      ]
+    },
+    "2024-03-12": {
+      "hijri": "1445-09-01",
+      "year": 1445,
+      "month": 9,
+      "day": 1,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-13": {
+      "hijri": "1445-09-02",
+      "year": 1445,
+      "month": 9,
+      "day": 2,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-14": {
+      "hijri": "1445-09-03",
+      "year": 1445,
+      "month": 9,
+      "day": 3,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-15": {
+      "hijri": "1445-09-04",
+      "year": 1445,
+      "month": 9,
+      "day": 4,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-16": {
+      "hijri": "1445-09-05",
+      "year": 1445,
+      "month": 9,
+      "day": 5,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-17": {
+      "hijri": "1445-09-06",
+      "year": 1445,
+      "month": 9,
+      "day": 6,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-18": {
+      "hijri": "1445-09-07",
+      "year": 1445,
+      "month": 9,
+      "day": 7,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-19": {
+      "hijri": "1445-09-08",
+      "year": 1445,
+      "month": 9,
+      "day": 8,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-20": {
+      "hijri": "1445-09-09",
+      "year": 1445,
+      "month": 9,
+      "day": 9,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-21": {
+      "hijri": "1445-09-10",
+      "year": 1445,
+      "month": 9,
+      "day": 10,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-22": {
+      "hijri": "1445-09-11",
+      "year": 1445,
+      "month": 9,
+      "day": 11,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-23": {
+      "hijri": "1445-09-12",
+      "year": 1445,
+      "month": 9,
+      "day": 12,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-24": {
+      "hijri": "1445-09-13",
+      "year": 1445,
+      "month": 9,
+      "day": 13,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-25": {
+      "hijri": "1445-09-14",
+      "year": 1445,
+      "month": 9,
+      "day": 14,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-26": {
+      "hijri": "1445-09-15",
+      "year": 1445,
+      "month": 9,
+      "day": 15,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-27": {
+      "hijri": "1445-09-16",
+      "year": 1445,
+      "month": 9,
+      "day": 16,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-28": {
+      "hijri": "1445-09-17",
+      "year": 1445,
+      "month": 9,
+      "day": 17,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-29": {
+      "hijri": "1445-09-18",
+      "year": 1445,
+      "month": 9,
+      "day": 18,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-30": {
+      "hijri": "1445-09-19",
+      "year": 1445,
+      "month": 9,
+      "day": 19,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-03-31": {
+      "hijri": "1445-09-20",
+      "year": 1445,
+      "month": 9,
+      "day": 20,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-01": {
+      "hijri": "1445-09-21",
+      "year": 1445,
+      "month": 9,
+      "day": 21,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-02": {
+      "hijri": "1445-09-22",
+      "year": 1445,
+      "month": 9,
+      "day": 22,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-03": {
+      "hijri": "1445-09-23",
+      "year": 1445,
+      "month": 9,
+      "day": 23,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-04": {
+      "hijri": "1445-09-24",
+      "year": 1445,
+      "month": 9,
+      "day": 24,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-05": {
+      "hijri": "1445-09-25",
+      "year": 1445,
+      "month": 9,
+      "day": 25,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-06": {
+      "hijri": "1445-09-26",
+      "year": 1445,
+      "month": 9,
+      "day": 26,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-07": {
+      "hijri": "1445-09-27",
+      "year": 1445,
+      "month": 9,
+      "day": 27,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-08": {
+      "hijri": "1445-09-28",
+      "year": 1445,
+      "month": 9,
+      "day": 28,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-09": {
+      "hijri": "1445-09-29",
+      "year": 1445,
+      "month": 9,
+      "day": 29,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240312",
+        "https://epaper.brecorder.com/2024/03/12"
+      ]
+    },
+    "2024-04-10": {
+      "hijri": "1445-10-01",
+      "year": 1445,
+      "month": 10,
+      "day": 1,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-11": {
+      "hijri": "1445-10-02",
+      "year": 1445,
+      "month": 10,
+      "day": 2,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-12": {
+      "hijri": "1445-10-03",
+      "year": 1445,
+      "month": 10,
+      "day": 3,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-13": {
+      "hijri": "1445-10-04",
+      "year": 1445,
+      "month": 10,
+      "day": 4,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-14": {
+      "hijri": "1445-10-05",
+      "year": 1445,
+      "month": 10,
+      "day": 5,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-15": {
+      "hijri": "1445-10-06",
+      "year": 1445,
+      "month": 10,
+      "day": 6,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-16": {
+      "hijri": "1445-10-07",
+      "year": 1445,
+      "month": 10,
+      "day": 7,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-17": {
+      "hijri": "1445-10-08",
+      "year": 1445,
+      "month": 10,
+      "day": 8,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-18": {
+      "hijri": "1445-10-09",
+      "year": 1445,
+      "month": 10,
+      "day": 9,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-19": {
+      "hijri": "1445-10-10",
+      "year": 1445,
+      "month": 10,
+      "day": 10,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-20": {
+      "hijri": "1445-10-11",
+      "year": 1445,
+      "month": 10,
+      "day": 11,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-21": {
+      "hijri": "1445-10-12",
+      "year": 1445,
+      "month": 10,
+      "day": 12,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-22": {
+      "hijri": "1445-10-13",
+      "year": 1445,
+      "month": 10,
+      "day": 13,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-23": {
+      "hijri": "1445-10-14",
+      "year": 1445,
+      "month": 10,
+      "day": 14,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-24": {
+      "hijri": "1445-10-15",
+      "year": 1445,
+      "month": 10,
+      "day": 15,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-25": {
+      "hijri": "1445-10-16",
+      "year": 1445,
+      "month": 10,
+      "day": 16,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-26": {
+      "hijri": "1445-10-17",
+      "year": 1445,
+      "month": 10,
+      "day": 17,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-27": {
+      "hijri": "1445-10-18",
+      "year": 1445,
+      "month": 10,
+      "day": 18,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-28": {
+      "hijri": "1445-10-19",
+      "year": 1445,
+      "month": 10,
+      "day": 19,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-29": {
+      "hijri": "1445-10-20",
+      "year": 1445,
+      "month": 10,
+      "day": 20,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-04-30": {
+      "hijri": "1445-10-21",
+      "year": 1445,
+      "month": 10,
+      "day": 21,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-01": {
+      "hijri": "1445-10-22",
+      "year": 1445,
+      "month": 10,
+      "day": 22,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-02": {
+      "hijri": "1445-10-23",
+      "year": 1445,
+      "month": 10,
+      "day": 23,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-03": {
+      "hijri": "1445-10-24",
+      "year": 1445,
+      "month": 10,
+      "day": 24,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-04": {
+      "hijri": "1445-10-25",
+      "year": 1445,
+      "month": 10,
+      "day": 25,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-05": {
+      "hijri": "1445-10-26",
+      "year": 1445,
+      "month": 10,
+      "day": 26,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-06": {
+      "hijri": "1445-10-27",
+      "year": 1445,
+      "month": 10,
+      "day": 27,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-07": {
+      "hijri": "1445-10-28",
+      "year": 1445,
+      "month": 10,
+      "day": 28,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-08": {
+      "hijri": "1445-10-29",
+      "year": 1445,
+      "month": 10,
+      "day": 29,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-09": {
+      "hijri": "1445-10-30",
+      "year": 1445,
+      "month": 10,
+      "day": 30,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240410",
+        "https://epaper.brecorder.com/2024/04/10"
+      ]
+    },
+    "2024-05-10": {
+      "hijri": "1445-11-01",
+      "year": 1445,
+      "month": 11,
+      "day": 1,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-11": {
+      "hijri": "1445-11-02",
+      "year": 1445,
+      "month": 11,
+      "day": 2,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-12": {
+      "hijri": "1445-11-03",
+      "year": 1445,
+      "month": 11,
+      "day": 3,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-13": {
+      "hijri": "1445-11-04",
+      "year": 1445,
+      "month": 11,
+      "day": 4,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-14": {
+      "hijri": "1445-11-05",
+      "year": 1445,
+      "month": 11,
+      "day": 5,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-15": {
+      "hijri": "1445-11-06",
+      "year": 1445,
+      "month": 11,
+      "day": 6,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-16": {
+      "hijri": "1445-11-07",
+      "year": 1445,
+      "month": 11,
+      "day": 7,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-17": {
+      "hijri": "1445-11-08",
+      "year": 1445,
+      "month": 11,
+      "day": 8,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-18": {
+      "hijri": "1445-11-09",
+      "year": 1445,
+      "month": 11,
+      "day": 9,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-19": {
+      "hijri": "1445-11-10",
+      "year": 1445,
+      "month": 11,
+      "day": 10,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-20": {
+      "hijri": "1445-11-11",
+      "year": 1445,
+      "month": 11,
+      "day": 11,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-21": {
+      "hijri": "1445-11-12",
+      "year": 1445,
+      "month": 11,
+      "day": 12,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-22": {
+      "hijri": "1445-11-13",
+      "year": 1445,
+      "month": 11,
+      "day": 13,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-23": {
+      "hijri": "1445-11-14",
+      "year": 1445,
+      "month": 11,
+      "day": 14,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-24": {
+      "hijri": "1445-11-15",
+      "year": 1445,
+      "month": 11,
+      "day": 15,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-25": {
+      "hijri": "1445-11-16",
+      "year": 1445,
+      "month": 11,
+      "day": 16,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-26": {
+      "hijri": "1445-11-17",
+      "year": 1445,
+      "month": 11,
+      "day": 17,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-27": {
+      "hijri": "1445-11-18",
+      "year": 1445,
+      "month": 11,
+      "day": 18,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-28": {
+      "hijri": "1445-11-19",
+      "year": 1445,
+      "month": 11,
+      "day": 19,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-29": {
+      "hijri": "1445-11-20",
+      "year": 1445,
+      "month": 11,
+      "day": 20,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-30": {
+      "hijri": "1445-11-21",
+      "year": 1445,
+      "month": 11,
+      "day": 21,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-05-31": {
+      "hijri": "1445-11-22",
+      "year": 1445,
+      "month": 11,
+      "day": 22,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-01": {
+      "hijri": "1445-11-23",
+      "year": 1445,
+      "month": 11,
+      "day": 23,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-02": {
+      "hijri": "1445-11-24",
+      "year": 1445,
+      "month": 11,
+      "day": 24,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-03": {
+      "hijri": "1445-11-25",
+      "year": 1445,
+      "month": 11,
+      "day": 25,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-04": {
+      "hijri": "1445-11-26",
+      "year": 1445,
+      "month": 11,
+      "day": 26,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-05": {
+      "hijri": "1445-11-27",
+      "year": 1445,
+      "month": 11,
+      "day": 27,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-06": {
+      "hijri": "1445-11-28",
+      "year": 1445,
+      "month": 11,
+      "day": 28,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-07": {
+      "hijri": "1445-11-29",
+      "year": 1445,
+      "month": 11,
+      "day": 29,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240510",
+        "https://epaper.brecorder.com/2024/05/10"
+      ]
+    },
+    "2024-06-08": {
+      "hijri": "1445-12-01",
+      "year": 1445,
+      "month": 12,
+      "day": 1,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-09": {
+      "hijri": "1445-12-02",
+      "year": 1445,
+      "month": 12,
+      "day": 2,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-10": {
+      "hijri": "1445-12-03",
+      "year": 1445,
+      "month": 12,
+      "day": 3,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-11": {
+      "hijri": "1445-12-04",
+      "year": 1445,
+      "month": 12,
+      "day": 4,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-12": {
+      "hijri": "1445-12-05",
+      "year": 1445,
+      "month": 12,
+      "day": 5,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-13": {
+      "hijri": "1445-12-06",
+      "year": 1445,
+      "month": 12,
+      "day": 6,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-14": {
+      "hijri": "1445-12-07",
+      "year": 1445,
+      "month": 12,
+      "day": 7,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-15": {
+      "hijri": "1445-12-08",
+      "year": 1445,
+      "month": 12,
+      "day": 8,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-16": {
+      "hijri": "1445-12-09",
+      "year": 1445,
+      "month": 12,
+      "day": 9,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-17": {
+      "hijri": "1445-12-10",
+      "year": 1445,
+      "month": 12,
+      "day": 10,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-18": {
+      "hijri": "1445-12-11",
+      "year": 1445,
+      "month": 12,
+      "day": 11,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-19": {
+      "hijri": "1445-12-12",
+      "year": 1445,
+      "month": 12,
+      "day": 12,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-20": {
+      "hijri": "1445-12-13",
+      "year": 1445,
+      "month": 12,
+      "day": 13,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-21": {
+      "hijri": "1445-12-14",
+      "year": 1445,
+      "month": 12,
+      "day": 14,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-22": {
+      "hijri": "1445-12-15",
+      "year": 1445,
+      "month": 12,
+      "day": 15,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-23": {
+      "hijri": "1445-12-16",
+      "year": 1445,
+      "month": 12,
+      "day": 16,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-24": {
+      "hijri": "1445-12-17",
+      "year": 1445,
+      "month": 12,
+      "day": 17,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-25": {
+      "hijri": "1445-12-18",
+      "year": 1445,
+      "month": 12,
+      "day": 18,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-26": {
+      "hijri": "1445-12-19",
+      "year": 1445,
+      "month": 12,
+      "day": 19,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-27": {
+      "hijri": "1445-12-20",
+      "year": 1445,
+      "month": 12,
+      "day": 20,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-28": {
+      "hijri": "1445-12-21",
+      "year": 1445,
+      "month": 12,
+      "day": 21,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-29": {
+      "hijri": "1445-12-22",
+      "year": 1445,
+      "month": 12,
+      "day": 22,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-06-30": {
+      "hijri": "1445-12-23",
+      "year": 1445,
+      "month": 12,
+      "day": 23,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-01": {
+      "hijri": "1445-12-24",
+      "year": 1445,
+      "month": 12,
+      "day": 24,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-02": {
+      "hijri": "1445-12-25",
+      "year": 1445,
+      "month": 12,
+      "day": 25,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-03": {
+      "hijri": "1445-12-26",
+      "year": 1445,
+      "month": 12,
+      "day": 26,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-04": {
+      "hijri": "1445-12-27",
+      "year": 1445,
+      "month": 12,
+      "day": 27,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-05": {
+      "hijri": "1445-12-28",
+      "year": 1445,
+      "month": 12,
+      "day": 28,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    },
+    "2024-07-06": {
+      "hijri": "1445-12-29",
+      "year": 1445,
+      "month": 12,
+      "day": 29,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20240608",
+        "https://epaper.brecorder.com/2024/06/08"
+      ]
+    }
+  }
+}

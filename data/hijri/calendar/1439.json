@@ -1,0 +1,5333 @@
+{
+  "hijri_year": 1439,
+  "coverage_start": "2004-01-24",
+  "generated_at": "2026-11-08T19:37:40.910Z",
+  "baseline": "islamic-umalqura (Intl)",
+  "days": {
+    "2017-09-21": {
+      "hijri": "1438-12-29",
+      "year": 1438,
+      "month": 12,
+      "day": 29,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170824",
+        "https://epaper.brecorder.com/2017/08/24"
+      ]
+    },
+    "2017-09-22": {
+      "hijri": "1439-01-01",
+      "year": 1439,
+      "month": 1,
+      "day": 1,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-23": {
+      "hijri": "1439-01-02",
+      "year": 1439,
+      "month": 1,
+      "day": 2,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-24": {
+      "hijri": "1439-01-03",
+      "year": 1439,
+      "month": 1,
+      "day": 3,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-25": {
+      "hijri": "1439-01-04",
+      "year": 1439,
+      "month": 1,
+      "day": 4,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-26": {
+      "hijri": "1439-01-05",
+      "year": 1439,
+      "month": 1,
+      "day": 5,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-27": {
+      "hijri": "1439-01-06",
+      "year": 1439,
+      "month": 1,
+      "day": 6,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-28": {
+      "hijri": "1439-01-07",
+      "year": 1439,
+      "month": 1,
+      "day": 7,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-29": {
+      "hijri": "1439-01-08",
+      "year": 1439,
+      "month": 1,
+      "day": 8,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-09-30": {
+      "hijri": "1439-01-09",
+      "year": 1439,
+      "month": 1,
+      "day": 9,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-01": {
+      "hijri": "1439-01-10",
+      "year": 1439,
+      "month": 1,
+      "day": 10,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-02": {
+      "hijri": "1439-01-11",
+      "year": 1439,
+      "month": 1,
+      "day": 11,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-03": {
+      "hijri": "1439-01-12",
+      "year": 1439,
+      "month": 1,
+      "day": 12,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-04": {
+      "hijri": "1439-01-13",
+      "year": 1439,
+      "month": 1,
+      "day": 13,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-05": {
+      "hijri": "1439-01-14",
+      "year": 1439,
+      "month": 1,
+      "day": 14,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-06": {
+      "hijri": "1439-01-15",
+      "year": 1439,
+      "month": 1,
+      "day": 15,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-07": {
+      "hijri": "1439-01-16",
+      "year": 1439,
+      "month": 1,
+      "day": 16,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-08": {
+      "hijri": "1439-01-17",
+      "year": 1439,
+      "month": 1,
+      "day": 17,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-09": {
+      "hijri": "1439-01-18",
+      "year": 1439,
+      "month": 1,
+      "day": 18,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-10": {
+      "hijri": "1439-01-19",
+      "year": 1439,
+      "month": 1,
+      "day": 19,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-11": {
+      "hijri": "1439-01-20",
+      "year": 1439,
+      "month": 1,
+      "day": 20,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-12": {
+      "hijri": "1439-01-21",
+      "year": 1439,
+      "month": 1,
+      "day": 21,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-13": {
+      "hijri": "1439-01-22",
+      "year": 1439,
+      "month": 1,
+      "day": 22,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-14": {
+      "hijri": "1439-01-23",
+      "year": 1439,
+      "month": 1,
+      "day": 23,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-15": {
+      "hijri": "1439-01-24",
+      "year": 1439,
+      "month": 1,
+      "day": 24,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-16": {
+      "hijri": "1439-01-25",
+      "year": 1439,
+      "month": 1,
+      "day": 25,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-17": {
+      "hijri": "1439-01-26",
+      "year": 1439,
+      "month": 1,
+      "day": 26,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-18": {
+      "hijri": "1439-01-27",
+      "year": 1439,
+      "month": 1,
+      "day": 27,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-19": {
+      "hijri": "1439-01-28",
+      "year": 1439,
+      "month": 1,
+      "day": 28,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-20": {
+      "hijri": "1439-01-29",
+      "year": 1439,
+      "month": 1,
+      "day": 29,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-21": {
+      "hijri": "1439-01-30",
+      "year": 1439,
+      "month": 1,
+      "day": 30,
+      "month_name": {
+        "en": "Muharram",
+        "ur": "محرم"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20170922",
+        "https://epaper.brecorder.com/2017/09/22"
+      ]
+    },
+    "2017-10-22": {
+      "hijri": "1439-02-01",
+      "year": 1439,
+      "month": 2,
+      "day": 1,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-23": {
+      "hijri": "1439-02-02",
+      "year": 1439,
+      "month": 2,
+      "day": 2,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-24": {
+      "hijri": "1439-02-03",
+      "year": 1439,
+      "month": 2,
+      "day": 3,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-25": {
+      "hijri": "1439-02-04",
+      "year": 1439,
+      "month": 2,
+      "day": 4,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-26": {
+      "hijri": "1439-02-05",
+      "year": 1439,
+      "month": 2,
+      "day": 5,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-27": {
+      "hijri": "1439-02-06",
+      "year": 1439,
+      "month": 2,
+      "day": 6,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-28": {
+      "hijri": "1439-02-07",
+      "year": 1439,
+      "month": 2,
+      "day": 7,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-29": {
+      "hijri": "1439-02-08",
+      "year": 1439,
+      "month": 2,
+      "day": 8,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-30": {
+      "hijri": "1439-02-09",
+      "year": 1439,
+      "month": 2,
+      "day": 9,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-10-31": {
+      "hijri": "1439-02-10",
+      "year": 1439,
+      "month": 2,
+      "day": 10,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-01": {
+      "hijri": "1439-02-11",
+      "year": 1439,
+      "month": 2,
+      "day": 11,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-02": {
+      "hijri": "1439-02-12",
+      "year": 1439,
+      "month": 2,
+      "day": 12,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-03": {
+      "hijri": "1439-02-13",
+      "year": 1439,
+      "month": 2,
+      "day": 13,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-04": {
+      "hijri": "1439-02-14",
+      "year": 1439,
+      "month": 2,
+      "day": 14,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-05": {
+      "hijri": "1439-02-15",
+      "year": 1439,
+      "month": 2,
+      "day": 15,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-06": {
+      "hijri": "1439-02-16",
+      "year": 1439,
+      "month": 2,
+      "day": 16,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-07": {
+      "hijri": "1439-02-17",
+      "year": 1439,
+      "month": 2,
+      "day": 17,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-08": {
+      "hijri": "1439-02-18",
+      "year": 1439,
+      "month": 2,
+      "day": 18,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-09": {
+      "hijri": "1439-02-19",
+      "year": 1439,
+      "month": 2,
+      "day": 19,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-10": {
+      "hijri": "1439-02-20",
+      "year": 1439,
+      "month": 2,
+      "day": 20,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-11": {
+      "hijri": "1439-02-21",
+      "year": 1439,
+      "month": 2,
+      "day": 21,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-12": {
+      "hijri": "1439-02-22",
+      "year": 1439,
+      "month": 2,
+      "day": 22,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-13": {
+      "hijri": "1439-02-23",
+      "year": 1439,
+      "month": 2,
+      "day": 23,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-14": {
+      "hijri": "1439-02-24",
+      "year": 1439,
+      "month": 2,
+      "day": 24,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-15": {
+      "hijri": "1439-02-25",
+      "year": 1439,
+      "month": 2,
+      "day": 25,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-16": {
+      "hijri": "1439-02-26",
+      "year": 1439,
+      "month": 2,
+      "day": 26,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-17": {
+      "hijri": "1439-02-27",
+      "year": 1439,
+      "month": 2,
+      "day": 27,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-18": {
+      "hijri": "1439-02-28",
+      "year": 1439,
+      "month": 2,
+      "day": 28,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-19": {
+      "hijri": "1439-02-29",
+      "year": 1439,
+      "month": 2,
+      "day": 29,
+      "month_name": {
+        "en": "Safar",
+        "ur": "صفر"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171022",
+        "https://epaper.brecorder.com/2017/10/22"
+      ]
+    },
+    "2017-11-20": {
+      "hijri": "1439-03-01",
+      "year": 1439,
+      "month": 3,
+      "day": 1,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-21": {
+      "hijri": "1439-03-02",
+      "year": 1439,
+      "month": 3,
+      "day": 2,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-22": {
+      "hijri": "1439-03-03",
+      "year": 1439,
+      "month": 3,
+      "day": 3,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-23": {
+      "hijri": "1439-03-04",
+      "year": 1439,
+      "month": 3,
+      "day": 4,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-24": {
+      "hijri": "1439-03-05",
+      "year": 1439,
+      "month": 3,
+      "day": 5,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-25": {
+      "hijri": "1439-03-06",
+      "year": 1439,
+      "month": 3,
+      "day": 6,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-26": {
+      "hijri": "1439-03-07",
+      "year": 1439,
+      "month": 3,
+      "day": 7,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-27": {
+      "hijri": "1439-03-08",
+      "year": 1439,
+      "month": 3,
+      "day": 8,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-28": {
+      "hijri": "1439-03-09",
+      "year": 1439,
+      "month": 3,
+      "day": 9,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-29": {
+      "hijri": "1439-03-10",
+      "year": 1439,
+      "month": 3,
+      "day": 10,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-11-30": {
+      "hijri": "1439-03-11",
+      "year": 1439,
+      "month": 3,
+      "day": 11,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-01": {
+      "hijri": "1439-03-12",
+      "year": 1439,
+      "month": 3,
+      "day": 12,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-02": {
+      "hijri": "1439-03-13",
+      "year": 1439,
+      "month": 3,
+      "day": 13,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-03": {
+      "hijri": "1439-03-14",
+      "year": 1439,
+      "month": 3,
+      "day": 14,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-04": {
+      "hijri": "1439-03-15",
+      "year": 1439,
+      "month": 3,
+      "day": 15,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-05": {
+      "hijri": "1439-03-16",
+      "year": 1439,
+      "month": 3,
+      "day": 16,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-06": {
+      "hijri": "1439-03-17",
+      "year": 1439,
+      "month": 3,
+      "day": 17,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-07": {
+      "hijri": "1439-03-18",
+      "year": 1439,
+      "month": 3,
+      "day": 18,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-08": {
+      "hijri": "1439-03-19",
+      "year": 1439,
+      "month": 3,
+      "day": 19,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-09": {
+      "hijri": "1439-03-20",
+      "year": 1439,
+      "month": 3,
+      "day": 20,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-10": {
+      "hijri": "1439-03-21",
+      "year": 1439,
+      "month": 3,
+      "day": 21,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-11": {
+      "hijri": "1439-03-22",
+      "year": 1439,
+      "month": 3,
+      "day": 22,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-12": {
+      "hijri": "1439-03-23",
+      "year": 1439,
+      "month": 3,
+      "day": 23,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-13": {
+      "hijri": "1439-03-24",
+      "year": 1439,
+      "month": 3,
+      "day": 24,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-14": {
+      "hijri": "1439-03-25",
+      "year": 1439,
+      "month": 3,
+      "day": 25,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-15": {
+      "hijri": "1439-03-26",
+      "year": 1439,
+      "month": 3,
+      "day": 26,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-16": {
+      "hijri": "1439-03-27",
+      "year": 1439,
+      "month": 3,
+      "day": 27,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-17": {
+      "hijri": "1439-03-28",
+      "year": 1439,
+      "month": 3,
+      "day": 28,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-18": {
+      "hijri": "1439-03-29",
+      "year": 1439,
+      "month": 3,
+      "day": 29,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-19": {
+      "hijri": "1439-03-30",
+      "year": 1439,
+      "month": 3,
+      "day": 30,
+      "month_name": {
+        "en": "Rabi al-Awwal",
+        "ur": "ربیع الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171120",
+        "https://epaper.brecorder.com/2017/11/20"
+      ]
+    },
+    "2017-12-20": {
+      "hijri": "1439-04-01",
+      "year": 1439,
+      "month": 4,
+      "day": 1,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-21": {
+      "hijri": "1439-04-02",
+      "year": 1439,
+      "month": 4,
+      "day": 2,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-22": {
+      "hijri": "1439-04-03",
+      "year": 1439,
+      "month": 4,
+      "day": 3,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-23": {
+      "hijri": "1439-04-04",
+      "year": 1439,
+      "month": 4,
+      "day": 4,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-24": {
+      "hijri": "1439-04-05",
+      "year": 1439,
+      "month": 4,
+      "day": 5,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-25": {
+      "hijri": "1439-04-06",
+      "year": 1439,
+      "month": 4,
+      "day": 6,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-26": {
+      "hijri": "1439-04-07",
+      "year": 1439,
+      "month": 4,
+      "day": 7,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-27": {
+      "hijri": "1439-04-08",
+      "year": 1439,
+      "month": 4,
+      "day": 8,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-28": {
+      "hijri": "1439-04-09",
+      "year": 1439,
+      "month": 4,
+      "day": 9,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-29": {
+      "hijri": "1439-04-10",
+      "year": 1439,
+      "month": 4,
+      "day": 10,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-30": {
+      "hijri": "1439-04-11",
+      "year": 1439,
+      "month": 4,
+      "day": 11,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2017-12-31": {
+      "hijri": "1439-04-12",
+      "year": 1439,
+      "month": 4,
+      "day": 12,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-01": {
+      "hijri": "1439-04-13",
+      "year": 1439,
+      "month": 4,
+      "day": 13,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-02": {
+      "hijri": "1439-04-14",
+      "year": 1439,
+      "month": 4,
+      "day": 14,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-03": {
+      "hijri": "1439-04-15",
+      "year": 1439,
+      "month": 4,
+      "day": 15,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-04": {
+      "hijri": "1439-04-16",
+      "year": 1439,
+      "month": 4,
+      "day": 16,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-05": {
+      "hijri": "1439-04-17",
+      "year": 1439,
+      "month": 4,
+      "day": 17,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-06": {
+      "hijri": "1439-04-18",
+      "year": 1439,
+      "month": 4,
+      "day": 18,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-07": {
+      "hijri": "1439-04-19",
+      "year": 1439,
+      "month": 4,
+      "day": 19,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-08": {
+      "hijri": "1439-04-20",
+      "year": 1439,
+      "month": 4,
+      "day": 20,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-09": {
+      "hijri": "1439-04-21",
+      "year": 1439,
+      "month": 4,
+      "day": 21,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-10": {
+      "hijri": "1439-04-22",
+      "year": 1439,
+      "month": 4,
+      "day": 22,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-11": {
+      "hijri": "1439-04-23",
+      "year": 1439,
+      "month": 4,
+      "day": 23,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-12": {
+      "hijri": "1439-04-24",
+      "year": 1439,
+      "month": 4,
+      "day": 24,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-13": {
+      "hijri": "1439-04-25",
+      "year": 1439,
+      "month": 4,
+      "day": 25,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-14": {
+      "hijri": "1439-04-26",
+      "year": 1439,
+      "month": 4,
+      "day": 26,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-15": {
+      "hijri": "1439-04-27",
+      "year": 1439,
+      "month": 4,
+      "day": 27,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-16": {
+      "hijri": "1439-04-28",
+      "year": 1439,
+      "month": 4,
+      "day": 28,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-17": {
+      "hijri": "1439-04-29",
+      "year": 1439,
+      "month": 4,
+      "day": 29,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-18": {
+      "hijri": "1439-04-30",
+      "year": 1439,
+      "month": 4,
+      "day": 30,
+      "month_name": {
+        "en": "Rabi al-Thani",
+        "ur": "ربیع الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20171220",
+        "https://epaper.brecorder.com/2017/12/20"
+      ]
+    },
+    "2018-01-19": {
+      "hijri": "1439-05-01",
+      "year": 1439,
+      "month": 5,
+      "day": 1,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-20": {
+      "hijri": "1439-05-02",
+      "year": 1439,
+      "month": 5,
+      "day": 2,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-21": {
+      "hijri": "1439-05-03",
+      "year": 1439,
+      "month": 5,
+      "day": 3,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-22": {
+      "hijri": "1439-05-04",
+      "year": 1439,
+      "month": 5,
+      "day": 4,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-23": {
+      "hijri": "1439-05-05",
+      "year": 1439,
+      "month": 5,
+      "day": 5,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-24": {
+      "hijri": "1439-05-06",
+      "year": 1439,
+      "month": 5,
+      "day": 6,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-25": {
+      "hijri": "1439-05-07",
+      "year": 1439,
+      "month": 5,
+      "day": 7,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-26": {
+      "hijri": "1439-05-08",
+      "year": 1439,
+      "month": 5,
+      "day": 8,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-27": {
+      "hijri": "1439-05-09",
+      "year": 1439,
+      "month": 5,
+      "day": 9,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-28": {
+      "hijri": "1439-05-10",
+      "year": 1439,
+      "month": 5,
+      "day": 10,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-29": {
+      "hijri": "1439-05-11",
+      "year": 1439,
+      "month": 5,
+      "day": 11,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-30": {
+      "hijri": "1439-05-12",
+      "year": 1439,
+      "month": 5,
+      "day": 12,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-01-31": {
+      "hijri": "1439-05-13",
+      "year": 1439,
+      "month": 5,
+      "day": 13,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-01": {
+      "hijri": "1439-05-14",
+      "year": 1439,
+      "month": 5,
+      "day": 14,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-02": {
+      "hijri": "1439-05-15",
+      "year": 1439,
+      "month": 5,
+      "day": 15,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-03": {
+      "hijri": "1439-05-16",
+      "year": 1439,
+      "month": 5,
+      "day": 16,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-04": {
+      "hijri": "1439-05-17",
+      "year": 1439,
+      "month": 5,
+      "day": 17,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-05": {
+      "hijri": "1439-05-18",
+      "year": 1439,
+      "month": 5,
+      "day": 18,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-06": {
+      "hijri": "1439-05-19",
+      "year": 1439,
+      "month": 5,
+      "day": 19,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-07": {
+      "hijri": "1439-05-20",
+      "year": 1439,
+      "month": 5,
+      "day": 20,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-08": {
+      "hijri": "1439-05-21",
+      "year": 1439,
+      "month": 5,
+      "day": 21,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-09": {
+      "hijri": "1439-05-22",
+      "year": 1439,
+      "month": 5,
+      "day": 22,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-10": {
+      "hijri": "1439-05-23",
+      "year": 1439,
+      "month": 5,
+      "day": 23,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-11": {
+      "hijri": "1439-05-24",
+      "year": 1439,
+      "month": 5,
+      "day": 24,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-12": {
+      "hijri": "1439-05-25",
+      "year": 1439,
+      "month": 5,
+      "day": 25,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-13": {
+      "hijri": "1439-05-26",
+      "year": 1439,
+      "month": 5,
+      "day": 26,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-14": {
+      "hijri": "1439-05-27",
+      "year": 1439,
+      "month": 5,
+      "day": 27,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-15": {
+      "hijri": "1439-05-28",
+      "year": 1439,
+      "month": 5,
+      "day": 28,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-16": {
+      "hijri": "1439-05-29",
+      "year": 1439,
+      "month": 5,
+      "day": 29,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-17": {
+      "hijri": "1439-05-30",
+      "year": 1439,
+      "month": 5,
+      "day": 30,
+      "month_name": {
+        "en": "Jumada al-Awwal",
+        "ur": "جمادی الاول"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180119",
+        "https://epaper.brecorder.com/2018/01/19"
+      ]
+    },
+    "2018-02-18": {
+      "hijri": "1439-06-01",
+      "year": 1439,
+      "month": 6,
+      "day": 1,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-19": {
+      "hijri": "1439-06-02",
+      "year": 1439,
+      "month": 6,
+      "day": 2,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-20": {
+      "hijri": "1439-06-03",
+      "year": 1439,
+      "month": 6,
+      "day": 3,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-21": {
+      "hijri": "1439-06-04",
+      "year": 1439,
+      "month": 6,
+      "day": 4,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-22": {
+      "hijri": "1439-06-05",
+      "year": 1439,
+      "month": 6,
+      "day": 5,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-23": {
+      "hijri": "1439-06-06",
+      "year": 1439,
+      "month": 6,
+      "day": 6,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-24": {
+      "hijri": "1439-06-07",
+      "year": 1439,
+      "month": 6,
+      "day": 7,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-25": {
+      "hijri": "1439-06-08",
+      "year": 1439,
+      "month": 6,
+      "day": 8,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-26": {
+      "hijri": "1439-06-09",
+      "year": 1439,
+      "month": 6,
+      "day": 9,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-27": {
+      "hijri": "1439-06-10",
+      "year": 1439,
+      "month": 6,
+      "day": 10,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-02-28": {
+      "hijri": "1439-06-11",
+      "year": 1439,
+      "month": 6,
+      "day": 11,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-01": {
+      "hijri": "1439-06-12",
+      "year": 1439,
+      "month": 6,
+      "day": 12,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-02": {
+      "hijri": "1439-06-13",
+      "year": 1439,
+      "month": 6,
+      "day": 13,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-03": {
+      "hijri": "1439-06-14",
+      "year": 1439,
+      "month": 6,
+      "day": 14,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-04": {
+      "hijri": "1439-06-15",
+      "year": 1439,
+      "month": 6,
+      "day": 15,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-05": {
+      "hijri": "1439-06-16",
+      "year": 1439,
+      "month": 6,
+      "day": 16,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-06": {
+      "hijri": "1439-06-17",
+      "year": 1439,
+      "month": 6,
+      "day": 17,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-07": {
+      "hijri": "1439-06-18",
+      "year": 1439,
+      "month": 6,
+      "day": 18,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-08": {
+      "hijri": "1439-06-19",
+      "year": 1439,
+      "month": 6,
+      "day": 19,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-09": {
+      "hijri": "1439-06-20",
+      "year": 1439,
+      "month": 6,
+      "day": 20,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-10": {
+      "hijri": "1439-06-21",
+      "year": 1439,
+      "month": 6,
+      "day": 21,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-11": {
+      "hijri": "1439-06-22",
+      "year": 1439,
+      "month": 6,
+      "day": 22,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-12": {
+      "hijri": "1439-06-23",
+      "year": 1439,
+      "month": 6,
+      "day": 23,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-13": {
+      "hijri": "1439-06-24",
+      "year": 1439,
+      "month": 6,
+      "day": 24,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-14": {
+      "hijri": "1439-06-25",
+      "year": 1439,
+      "month": 6,
+      "day": 25,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-15": {
+      "hijri": "1439-06-26",
+      "year": 1439,
+      "month": 6,
+      "day": 26,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-16": {
+      "hijri": "1439-06-27",
+      "year": 1439,
+      "month": 6,
+      "day": 27,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-17": {
+      "hijri": "1439-06-28",
+      "year": 1439,
+      "month": 6,
+      "day": 28,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-18": {
+      "hijri": "1439-06-29",
+      "year": 1439,
+      "month": 6,
+      "day": 29,
+      "month_name": {
+        "en": "Jumada al-Thani",
+        "ur": "جمادی الثانی"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180218",
+        "https://epaper.brecorder.com/2018/02/18"
+      ]
+    },
+    "2018-03-19": {
+      "hijri": "1439-07-01",
+      "year": 1439,
+      "month": 7,
+      "day": 1,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-20": {
+      "hijri": "1439-07-02",
+      "year": 1439,
+      "month": 7,
+      "day": 2,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-21": {
+      "hijri": "1439-07-03",
+      "year": 1439,
+      "month": 7,
+      "day": 3,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-22": {
+      "hijri": "1439-07-04",
+      "year": 1439,
+      "month": 7,
+      "day": 4,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-23": {
+      "hijri": "1439-07-05",
+      "year": 1439,
+      "month": 7,
+      "day": 5,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-24": {
+      "hijri": "1439-07-06",
+      "year": 1439,
+      "month": 7,
+      "day": 6,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-25": {
+      "hijri": "1439-07-07",
+      "year": 1439,
+      "month": 7,
+      "day": 7,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-26": {
+      "hijri": "1439-07-08",
+      "year": 1439,
+      "month": 7,
+      "day": 8,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-27": {
+      "hijri": "1439-07-09",
+      "year": 1439,
+      "month": 7,
+      "day": 9,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-28": {
+      "hijri": "1439-07-10",
+      "year": 1439,
+      "month": 7,
+      "day": 10,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-29": {
+      "hijri": "1439-07-11",
+      "year": 1439,
+      "month": 7,
+      "day": 11,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-30": {
+      "hijri": "1439-07-12",
+      "year": 1439,
+      "month": 7,
+      "day": 12,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-03-31": {
+      "hijri": "1439-07-13",
+      "year": 1439,
+      "month": 7,
+      "day": 13,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-01": {
+      "hijri": "1439-07-14",
+      "year": 1439,
+      "month": 7,
+      "day": 14,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-02": {
+      "hijri": "1439-07-15",
+      "year": 1439,
+      "month": 7,
+      "day": 15,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-03": {
+      "hijri": "1439-07-16",
+      "year": 1439,
+      "month": 7,
+      "day": 16,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-04": {
+      "hijri": "1439-07-17",
+      "year": 1439,
+      "month": 7,
+      "day": 17,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-05": {
+      "hijri": "1439-07-18",
+      "year": 1439,
+      "month": 7,
+      "day": 18,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-06": {
+      "hijri": "1439-07-19",
+      "year": 1439,
+      "month": 7,
+      "day": 19,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-07": {
+      "hijri": "1439-07-20",
+      "year": 1439,
+      "month": 7,
+      "day": 20,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-08": {
+      "hijri": "1439-07-21",
+      "year": 1439,
+      "month": 7,
+      "day": 21,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-09": {
+      "hijri": "1439-07-22",
+      "year": 1439,
+      "month": 7,
+      "day": 22,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-10": {
+      "hijri": "1439-07-23",
+      "year": 1439,
+      "month": 7,
+      "day": 23,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-11": {
+      "hijri": "1439-07-24",
+      "year": 1439,
+      "month": 7,
+      "day": 24,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-12": {
+      "hijri": "1439-07-25",
+      "year": 1439,
+      "month": 7,
+      "day": 25,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-13": {
+      "hijri": "1439-07-26",
+      "year": 1439,
+      "month": 7,
+      "day": 26,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-14": {
+      "hijri": "1439-07-27",
+      "year": 1439,
+      "month": 7,
+      "day": 27,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-15": {
+      "hijri": "1439-07-28",
+      "year": 1439,
+      "month": 7,
+      "day": 28,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-16": {
+      "hijri": "1439-07-29",
+      "year": 1439,
+      "month": 7,
+      "day": 29,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-17": {
+      "hijri": "1439-07-30",
+      "year": 1439,
+      "month": 7,
+      "day": 30,
+      "month_name": {
+        "en": "Rajab",
+        "ur": "رجب"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180319",
+        "https://epaper.brecorder.com/2018/03/19"
+      ]
+    },
+    "2018-04-18": {
+      "hijri": "1439-08-01",
+      "year": 1439,
+      "month": 8,
+      "day": 1,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-19": {
+      "hijri": "1439-08-02",
+      "year": 1439,
+      "month": 8,
+      "day": 2,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-20": {
+      "hijri": "1439-08-03",
+      "year": 1439,
+      "month": 8,
+      "day": 3,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-21": {
+      "hijri": "1439-08-04",
+      "year": 1439,
+      "month": 8,
+      "day": 4,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-22": {
+      "hijri": "1439-08-05",
+      "year": 1439,
+      "month": 8,
+      "day": 5,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-23": {
+      "hijri": "1439-08-06",
+      "year": 1439,
+      "month": 8,
+      "day": 6,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-24": {
+      "hijri": "1439-08-07",
+      "year": 1439,
+      "month": 8,
+      "day": 7,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-25": {
+      "hijri": "1439-08-08",
+      "year": 1439,
+      "month": 8,
+      "day": 8,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-26": {
+      "hijri": "1439-08-09",
+      "year": 1439,
+      "month": 8,
+      "day": 9,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-27": {
+      "hijri": "1439-08-10",
+      "year": 1439,
+      "month": 8,
+      "day": 10,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-28": {
+      "hijri": "1439-08-11",
+      "year": 1439,
+      "month": 8,
+      "day": 11,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-29": {
+      "hijri": "1439-08-12",
+      "year": 1439,
+      "month": 8,
+      "day": 12,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-04-30": {
+      "hijri": "1439-08-13",
+      "year": 1439,
+      "month": 8,
+      "day": 13,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-01": {
+      "hijri": "1439-08-14",
+      "year": 1439,
+      "month": 8,
+      "day": 14,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-02": {
+      "hijri": "1439-08-15",
+      "year": 1439,
+      "month": 8,
+      "day": 15,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-03": {
+      "hijri": "1439-08-16",
+      "year": 1439,
+      "month": 8,
+      "day": 16,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-04": {
+      "hijri": "1439-08-17",
+      "year": 1439,
+      "month": 8,
+      "day": 17,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-05": {
+      "hijri": "1439-08-18",
+      "year": 1439,
+      "month": 8,
+      "day": 18,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-06": {
+      "hijri": "1439-08-19",
+      "year": 1439,
+      "month": 8,
+      "day": 19,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-07": {
+      "hijri": "1439-08-20",
+      "year": 1439,
+      "month": 8,
+      "day": 20,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-08": {
+      "hijri": "1439-08-21",
+      "year": 1439,
+      "month": 8,
+      "day": 21,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-09": {
+      "hijri": "1439-08-22",
+      "year": 1439,
+      "month": 8,
+      "day": 22,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-10": {
+      "hijri": "1439-08-23",
+      "year": 1439,
+      "month": 8,
+      "day": 23,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-11": {
+      "hijri": "1439-08-24",
+      "year": 1439,
+      "month": 8,
+      "day": 24,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-12": {
+      "hijri": "1439-08-25",
+      "year": 1439,
+      "month": 8,
+      "day": 25,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-13": {
+      "hijri": "1439-08-26",
+      "year": 1439,
+      "month": 8,
+      "day": 26,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-14": {
+      "hijri": "1439-08-27",
+      "year": 1439,
+      "month": 8,
+      "day": 27,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-15": {
+      "hijri": "1439-08-28",
+      "year": 1439,
+      "month": 8,
+      "day": 28,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-16": {
+      "hijri": "1439-08-29",
+      "year": 1439,
+      "month": 8,
+      "day": 29,
+      "month_name": {
+        "en": "Sha'ban",
+        "ur": "شعبان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180418",
+        "https://epaper.brecorder.com/2018/04/18"
+      ]
+    },
+    "2018-05-17": {
+      "hijri": "1439-09-01",
+      "year": 1439,
+      "month": 9,
+      "day": 1,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-18": {
+      "hijri": "1439-09-02",
+      "year": 1439,
+      "month": 9,
+      "day": 2,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-19": {
+      "hijri": "1439-09-03",
+      "year": 1439,
+      "month": 9,
+      "day": 3,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-20": {
+      "hijri": "1439-09-04",
+      "year": 1439,
+      "month": 9,
+      "day": 4,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-21": {
+      "hijri": "1439-09-05",
+      "year": 1439,
+      "month": 9,
+      "day": 5,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-22": {
+      "hijri": "1439-09-06",
+      "year": 1439,
+      "month": 9,
+      "day": 6,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-23": {
+      "hijri": "1439-09-07",
+      "year": 1439,
+      "month": 9,
+      "day": 7,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-24": {
+      "hijri": "1439-09-08",
+      "year": 1439,
+      "month": 9,
+      "day": 8,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-25": {
+      "hijri": "1439-09-09",
+      "year": 1439,
+      "month": 9,
+      "day": 9,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-26": {
+      "hijri": "1439-09-10",
+      "year": 1439,
+      "month": 9,
+      "day": 10,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-27": {
+      "hijri": "1439-09-11",
+      "year": 1439,
+      "month": 9,
+      "day": 11,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-28": {
+      "hijri": "1439-09-12",
+      "year": 1439,
+      "month": 9,
+      "day": 12,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-29": {
+      "hijri": "1439-09-13",
+      "year": 1439,
+      "month": 9,
+      "day": 13,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-30": {
+      "hijri": "1439-09-14",
+      "year": 1439,
+      "month": 9,
+      "day": 14,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-05-31": {
+      "hijri": "1439-09-15",
+      "year": 1439,
+      "month": 9,
+      "day": 15,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-01": {
+      "hijri": "1439-09-16",
+      "year": 1439,
+      "month": 9,
+      "day": 16,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-02": {
+      "hijri": "1439-09-17",
+      "year": 1439,
+      "month": 9,
+      "day": 17,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-03": {
+      "hijri": "1439-09-18",
+      "year": 1439,
+      "month": 9,
+      "day": 18,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-04": {
+      "hijri": "1439-09-19",
+      "year": 1439,
+      "month": 9,
+      "day": 19,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-05": {
+      "hijri": "1439-09-20",
+      "year": 1439,
+      "month": 9,
+      "day": 20,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-06": {
+      "hijri": "1439-09-21",
+      "year": 1439,
+      "month": 9,
+      "day": 21,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-07": {
+      "hijri": "1439-09-22",
+      "year": 1439,
+      "month": 9,
+      "day": 22,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-08": {
+      "hijri": "1439-09-23",
+      "year": 1439,
+      "month": 9,
+      "day": 23,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-09": {
+      "hijri": "1439-09-24",
+      "year": 1439,
+      "month": 9,
+      "day": 24,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-10": {
+      "hijri": "1439-09-25",
+      "year": 1439,
+      "month": 9,
+      "day": 25,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-11": {
+      "hijri": "1439-09-26",
+      "year": 1439,
+      "month": 9,
+      "day": 26,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-12": {
+      "hijri": "1439-09-27",
+      "year": 1439,
+      "month": 9,
+      "day": 27,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-13": {
+      "hijri": "1439-09-28",
+      "year": 1439,
+      "month": 9,
+      "day": 28,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-14": {
+      "hijri": "1439-09-29",
+      "year": 1439,
+      "month": 9,
+      "day": 29,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-15": {
+      "hijri": "1439-09-30",
+      "year": 1439,
+      "month": 9,
+      "day": 30,
+      "month_name": {
+        "en": "Ramadan",
+        "ur": "رمضان"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180517",
+        "https://epaper.brecorder.com/2018/05/17"
+      ]
+    },
+    "2018-06-16": {
+      "hijri": "1439-10-01",
+      "year": 1439,
+      "month": 10,
+      "day": 1,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-17": {
+      "hijri": "1439-10-02",
+      "year": 1439,
+      "month": 10,
+      "day": 2,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-18": {
+      "hijri": "1439-10-03",
+      "year": 1439,
+      "month": 10,
+      "day": 3,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-19": {
+      "hijri": "1439-10-04",
+      "year": 1439,
+      "month": 10,
+      "day": 4,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-20": {
+      "hijri": "1439-10-05",
+      "year": 1439,
+      "month": 10,
+      "day": 5,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-21": {
+      "hijri": "1439-10-06",
+      "year": 1439,
+      "month": 10,
+      "day": 6,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-22": {
+      "hijri": "1439-10-07",
+      "year": 1439,
+      "month": 10,
+      "day": 7,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-23": {
+      "hijri": "1439-10-08",
+      "year": 1439,
+      "month": 10,
+      "day": 8,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-24": {
+      "hijri": "1439-10-09",
+      "year": 1439,
+      "month": 10,
+      "day": 9,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-25": {
+      "hijri": "1439-10-10",
+      "year": 1439,
+      "month": 10,
+      "day": 10,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-26": {
+      "hijri": "1439-10-11",
+      "year": 1439,
+      "month": 10,
+      "day": 11,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-27": {
+      "hijri": "1439-10-12",
+      "year": 1439,
+      "month": 10,
+      "day": 12,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-28": {
+      "hijri": "1439-10-13",
+      "year": 1439,
+      "month": 10,
+      "day": 13,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-29": {
+      "hijri": "1439-10-14",
+      "year": 1439,
+      "month": 10,
+      "day": 14,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-06-30": {
+      "hijri": "1439-10-15",
+      "year": 1439,
+      "month": 10,
+      "day": 15,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-01": {
+      "hijri": "1439-10-16",
+      "year": 1439,
+      "month": 10,
+      "day": 16,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-02": {
+      "hijri": "1439-10-17",
+      "year": 1439,
+      "month": 10,
+      "day": 17,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-03": {
+      "hijri": "1439-10-18",
+      "year": 1439,
+      "month": 10,
+      "day": 18,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-04": {
+      "hijri": "1439-10-19",
+      "year": 1439,
+      "month": 10,
+      "day": 19,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-05": {
+      "hijri": "1439-10-20",
+      "year": 1439,
+      "month": 10,
+      "day": 20,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-06": {
+      "hijri": "1439-10-21",
+      "year": 1439,
+      "month": 10,
+      "day": 21,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-07": {
+      "hijri": "1439-10-22",
+      "year": 1439,
+      "month": 10,
+      "day": 22,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-08": {
+      "hijri": "1439-10-23",
+      "year": 1439,
+      "month": 10,
+      "day": 23,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-09": {
+      "hijri": "1439-10-24",
+      "year": 1439,
+      "month": 10,
+      "day": 24,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-10": {
+      "hijri": "1439-10-25",
+      "year": 1439,
+      "month": 10,
+      "day": 25,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-11": {
+      "hijri": "1439-10-26",
+      "year": 1439,
+      "month": 10,
+      "day": 26,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-12": {
+      "hijri": "1439-10-27",
+      "year": 1439,
+      "month": 10,
+      "day": 27,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-13": {
+      "hijri": "1439-10-28",
+      "year": 1439,
+      "month": 10,
+      "day": 28,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-14": {
+      "hijri": "1439-10-29",
+      "year": 1439,
+      "month": 10,
+      "day": 29,
+      "month_name": {
+        "en": "Shawwal",
+        "ur": "شوال"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180616",
+        "https://epaper.brecorder.com/2018/06/16"
+      ]
+    },
+    "2018-07-15": {
+      "hijri": "1439-11-01",
+      "year": 1439,
+      "month": 11,
+      "day": 1,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-16": {
+      "hijri": "1439-11-02",
+      "year": 1439,
+      "month": 11,
+      "day": 2,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-17": {
+      "hijri": "1439-11-03",
+      "year": 1439,
+      "month": 11,
+      "day": 3,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-18": {
+      "hijri": "1439-11-04",
+      "year": 1439,
+      "month": 11,
+      "day": 4,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-19": {
+      "hijri": "1439-11-05",
+      "year": 1439,
+      "month": 11,
+      "day": 5,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-20": {
+      "hijri": "1439-11-06",
+      "year": 1439,
+      "month": 11,
+      "day": 6,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-21": {
+      "hijri": "1439-11-07",
+      "year": 1439,
+      "month": 11,
+      "day": 7,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-22": {
+      "hijri": "1439-11-08",
+      "year": 1439,
+      "month": 11,
+      "day": 8,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-23": {
+      "hijri": "1439-11-09",
+      "year": 1439,
+      "month": 11,
+      "day": 9,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-24": {
+      "hijri": "1439-11-10",
+      "year": 1439,
+      "month": 11,
+      "day": 10,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-25": {
+      "hijri": "1439-11-11",
+      "year": 1439,
+      "month": 11,
+      "day": 11,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-26": {
+      "hijri": "1439-11-12",
+      "year": 1439,
+      "month": 11,
+      "day": 12,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-27": {
+      "hijri": "1439-11-13",
+      "year": 1439,
+      "month": 11,
+      "day": 13,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-28": {
+      "hijri": "1439-11-14",
+      "year": 1439,
+      "month": 11,
+      "day": 14,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-29": {
+      "hijri": "1439-11-15",
+      "year": 1439,
+      "month": 11,
+      "day": 15,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-30": {
+      "hijri": "1439-11-16",
+      "year": 1439,
+      "month": 11,
+      "day": 16,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-07-31": {
+      "hijri": "1439-11-17",
+      "year": 1439,
+      "month": 11,
+      "day": 17,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-01": {
+      "hijri": "1439-11-18",
+      "year": 1439,
+      "month": 11,
+      "day": 18,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-02": {
+      "hijri": "1439-11-19",
+      "year": 1439,
+      "month": 11,
+      "day": 19,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-03": {
+      "hijri": "1439-11-20",
+      "year": 1439,
+      "month": 11,
+      "day": 20,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-04": {
+      "hijri": "1439-11-21",
+      "year": 1439,
+      "month": 11,
+      "day": 21,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-05": {
+      "hijri": "1439-11-22",
+      "year": 1439,
+      "month": 11,
+      "day": 22,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-06": {
+      "hijri": "1439-11-23",
+      "year": 1439,
+      "month": 11,
+      "day": 23,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-07": {
+      "hijri": "1439-11-24",
+      "year": 1439,
+      "month": 11,
+      "day": 24,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-08": {
+      "hijri": "1439-11-25",
+      "year": 1439,
+      "month": 11,
+      "day": 25,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-09": {
+      "hijri": "1439-11-26",
+      "year": 1439,
+      "month": 11,
+      "day": 26,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-10": {
+      "hijri": "1439-11-27",
+      "year": 1439,
+      "month": 11,
+      "day": 27,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-11": {
+      "hijri": "1439-11-28",
+      "year": 1439,
+      "month": 11,
+      "day": 28,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-12": {
+      "hijri": "1439-11-29",
+      "year": 1439,
+      "month": 11,
+      "day": 29,
+      "month_name": {
+        "en": "Dhu al-Qi'dah",
+        "ur": "ذو القعدہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180715",
+        "https://epaper.brecorder.com/2018/07/15"
+      ]
+    },
+    "2018-08-13": {
+      "hijri": "1439-12-01",
+      "year": 1439,
+      "month": 12,
+      "day": 1,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-14": {
+      "hijri": "1439-12-02",
+      "year": 1439,
+      "month": 12,
+      "day": 2,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-15": {
+      "hijri": "1439-12-03",
+      "year": 1439,
+      "month": 12,
+      "day": 3,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-16": {
+      "hijri": "1439-12-04",
+      "year": 1439,
+      "month": 12,
+      "day": 4,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-17": {
+      "hijri": "1439-12-05",
+      "year": 1439,
+      "month": 12,
+      "day": 5,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-18": {
+      "hijri": "1439-12-06",
+      "year": 1439,
+      "month": 12,
+      "day": 6,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-19": {
+      "hijri": "1439-12-07",
+      "year": 1439,
+      "month": 12,
+      "day": 7,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-20": {
+      "hijri": "1439-12-08",
+      "year": 1439,
+      "month": 12,
+      "day": 8,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-21": {
+      "hijri": "1439-12-09",
+      "year": 1439,
+      "month": 12,
+      "day": 9,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-22": {
+      "hijri": "1439-12-10",
+      "year": 1439,
+      "month": 12,
+      "day": 10,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-23": {
+      "hijri": "1439-12-11",
+      "year": 1439,
+      "month": 12,
+      "day": 11,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-24": {
+      "hijri": "1439-12-12",
+      "year": 1439,
+      "month": 12,
+      "day": 12,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-25": {
+      "hijri": "1439-12-13",
+      "year": 1439,
+      "month": 12,
+      "day": 13,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-26": {
+      "hijri": "1439-12-14",
+      "year": 1439,
+      "month": 12,
+      "day": 14,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-27": {
+      "hijri": "1439-12-15",
+      "year": 1439,
+      "month": 12,
+      "day": 15,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-28": {
+      "hijri": "1439-12-16",
+      "year": 1439,
+      "month": 12,
+      "day": 16,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-29": {
+      "hijri": "1439-12-17",
+      "year": 1439,
+      "month": 12,
+      "day": 17,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-30": {
+      "hijri": "1439-12-18",
+      "year": 1439,
+      "month": 12,
+      "day": 18,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-08-31": {
+      "hijri": "1439-12-19",
+      "year": 1439,
+      "month": 12,
+      "day": 19,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-01": {
+      "hijri": "1439-12-20",
+      "year": 1439,
+      "month": 12,
+      "day": 20,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-02": {
+      "hijri": "1439-12-21",
+      "year": 1439,
+      "month": 12,
+      "day": 21,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-03": {
+      "hijri": "1439-12-22",
+      "year": 1439,
+      "month": 12,
+      "day": 22,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-04": {
+      "hijri": "1439-12-23",
+      "year": 1439,
+      "month": 12,
+      "day": 23,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-05": {
+      "hijri": "1439-12-24",
+      "year": 1439,
+      "month": 12,
+      "day": 24,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-06": {
+      "hijri": "1439-12-25",
+      "year": 1439,
+      "month": 12,
+      "day": 25,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-07": {
+      "hijri": "1439-12-26",
+      "year": 1439,
+      "month": 12,
+      "day": 26,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-08": {
+      "hijri": "1439-12-27",
+      "year": 1439,
+      "month": 12,
+      "day": 27,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-09": {
+      "hijri": "1439-12-28",
+      "year": 1439,
+      "month": 12,
+      "day": 28,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    },
+    "2018-09-10": {
+      "hijri": "1439-12-29",
+      "year": 1439,
+      "month": 12,
+      "day": 29,
+      "month_name": {
+        "en": "Dhu al-Hijjah",
+        "ur": "ذو الحجہ"
+      },
+      "confidence": "confirmed",
+      "sources": [
+        "https://www.express.com.pk/epaper/index.aspx?Date=20180813",
+        "https://epaper.brecorder.com/2018/08/13"
+      ]
+    }
+  }
+}
