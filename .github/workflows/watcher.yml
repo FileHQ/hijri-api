@@ -40,8 +40,9 @@ jobs:
       - run: npm ci --include=dev
 
       - name: Run the announcement watcher
-        # Scheduled runs must be allowed to write: the update only ever reaches
-        # a pull request for human review, never main.
+        # Scheduled runs must be allowed to write: the watcher never writes
+        # to main directly — a two-source agreement opens a pull request,
+        # which auto-merges (see below).
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             npx tsx src/cli.ts watch --json-out watcher-out/run.json
@@ -67,8 +68,9 @@ jobs:
           path: watcher-out/run.json
           if-no-files-found: ignore
 
-      - name: Open a pull request for human approval
+      - name: Open a pull request with the proposed month start
         if: ${{ hashFiles('watcher-out/pull-request.md') != '' }}
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -82,6 +84,18 @@ jobs:
 
             Co-authored-by: CommandCodeBot <noreply@commandcode.ai>
           delete-branch: true
+
+      # Two independent publishers agreeing is the gate — no human merge
+      # step. The pull request auto-merges as soon as it is mergeable
+      # (no status check is required on main), which triggers the
+      # generate workflow; that pull request auto-merges the same way,
+      # and deploy publishes the new data. The reviewer request above
+      # stays as a notification that the update happened.
+      - name: Enable auto-merge on the pull request
+        if: ${{ steps.cpr.outputs.pull-request-number != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --auto --merge "${{ steps.cpr.outputs.pull-request-number }}" --repo "$GITHUB_REPOSITORY"
 
       - name: Raise an issue when a month start is overdue
         if: ${{ hashFiles('watcher-out/run.json') != '' }}
