@@ -41,8 +41,12 @@ keep the error local.
 ## How the watcher runs
 
 The watcher (`.github/workflows/watcher.yml`) polls the news on the 29th evening, requires
-two independent publishers to agree on a date, and opens a pull request — the update never
-reaches `main` without a human merging it.
+two independent publishers to agree on a date, and opens a pull request — which
+auto-merges as soon as it is mergeable. The two-source agreement is the gate, not a
+human merge: after it merges, the generate workflow regenerates the data, its pull
+request auto-merges the same way, and deploy publishes the new data to Pages. If a
+wrong date ever reaches `main`, report it as an issue (see "Reporting a wrong date"
+below) — that is the safety net now.
 
 Two things to know when you touch it:
 
