@@ -41,7 +41,9 @@ jobs:
 
       # `main` is protected, so the generator cannot push to it directly. Propose
       # the regenerated data as a pull request instead, like the watcher does.
+      # The pull request auto-merges (see below) — no human merge step.
       - name: Open a pull request with the regenerated data
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -62,3 +64,14 @@ jobs:
           add-paths: |
             data
           delete-branch: true
+
+      # Auto-merge: the regenerated data is verified by CI on the pull
+      # request (the freshness test passes only when the data matches
+      # overrides.json), and no status check is required on main, so the
+      # pull request merges as soon as it is mergeable. Deploy then
+      # publishes the new data to Pages.
+      - name: Enable auto-merge on the pull request
+        if: ${{ steps.cpr.outputs.pull-request-number != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --auto --merge "${{ steps.cpr.outputs.pull-request-number }}" --repo "$GITHUB_REPOSITORY"
